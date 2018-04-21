@@ -61,6 +61,8 @@ SOFTWARE.
 #define WATCH_FAIL      0x03    //configDevice() function status return value
 #define CONFIG_PASS     0x04    //configDevice() function status return value
 
+#define TS4231_CONFIG_WORD_SIZE 14
+
 
 /*******************************************************************
     Copyright (C) 2017 Triad Semiconductor
@@ -240,7 +242,7 @@ static void ICACHE_FLASH_ATTR writeConfig(uint16_t config_val) {
   ts_delayUs(BUS_DRV_DLY);
   ts_digitalWrite(E_pin, LOW);
   ts_delayUs(BUS_DRV_DLY);
-  for (i = 0; i < 15; i++) {
+  for (i = 0; i < (TS4231_CONFIG_WORD_SIZE+1); i++) {
     config_val = config_val << 1;
     if ((config_val & 0x8000) > 0) { ts_digitalWrite(D_pin, HIGH); }
     else { ts_digitalWrite(D_pin, LOW); }
@@ -282,7 +284,7 @@ static uint16_t ICACHE_FLASH_ATTR readConfig(void) {
   ts_delayUs(BUS_DRV_DLY);
   ts_digitalWrite(E_pin, LOW);
   ts_delayUs(BUS_DRV_DLY);
-  for (i = 0; i < 14; i++) {
+  for (i = 0; i < TS4231_CONFIG_WORD_SIZE; i++) {
     ts_digitalWrite(E_pin, HIGH);
     ts_delayUs(BUS_DRV_DLY);
     readback = (readback << 1) | (ts_digitalRead(D_pin) & 0x0001);

@@ -91,7 +91,7 @@ static void ICACHE_FLASH_ATTR procTask(os_event_t *events)
 	if( LHSM.configure_state == 1 )
 	{
 		printf( "Configure the TS4231\n" );
-		ConfigureTS4231( );
+		//ConfigureTS4231( );
 		LHSM.configure_state = 2;
 	}
 

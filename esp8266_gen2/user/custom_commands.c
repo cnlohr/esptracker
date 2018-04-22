@@ -82,7 +82,7 @@ int ICACHE_FLASH_ATTR CustomCommand(char * buffer, int retsize, char *pusrdata, 
 		//Setup TS4231
 		uint16_t val =  safe_atoi( pusrdata + 2 );
 		int ret = TS4231configDevice( val );
-		buffend += ets_sprintf( buffend, "CCS\t%d\t%d",ret, val );
+		buffend += ets_sprintf( buffend, "CS\t%d\t%d",ret, val );
 		return buffend-buffer;
 	}
 	}

@@ -5,8 +5,8 @@
 
 //FI2S = 40,000,000 Hz
 
-#define MAX_LHBUFF 640
-#define MAX_EDGES 640   //Can't be any more than 512 otherwise here would be a freq_denominator overflow.
+#define MAX_LHBUFF 512
+#define MAX_EDGES 512   //Can't be any more than 512 otherwise here would be a freq_denominator overflow.
 
 
 extern struct LHSM_type LHSM;
@@ -49,10 +49,10 @@ struct LHSM_type
 	uint32_t * edgetimesbase;
 	uint32_t * edgetimeshead;
 
-	uint16_t edgecount; 
+	uint32_t edgecount; 
 
-	uint8_t  debugmonitoring;
-	uint8_t  debugbufferflag;           //32-bit boundary
+	uint32_t  debugmonitoring;
+	uint32_t  debugbufferflag;           //32-bit boundary
 	uint32_t debugbufferlen;			//Only updated at end of packet.
 	uint32_t * debugbufferbase;
 	uint32_t * debugbufferhead;

@@ -59,8 +59,8 @@ void lighthouse_decode( uint32_t * data, int size_words )
 	for( i = 0; i < size_words; i++ )
 	{
 		uint32_t r = data[i];
-		uint8_t is_interesting = data[i] != 0x00000000 && data[i] != 0xffffffff;
-		if( is_interesting || LHSM.last_was_interesting )
+		uint32_t is_interesting = r != 0x00000000 && r != 0xffffffff;
+		if( is_interesting | LHSM.last_was_interesting )
 		{
 			LHSM.last_was_interesting = is_interesting;
 			if( LHSM.debugbufferflag == 0 )
@@ -107,9 +107,7 @@ void lighthouse_decode( uint32_t * data, int size_words )
 
 		}
 		else
-		{
-			LHSM.timebase += 32;
-	
+		{	
 #if 1
 			if( LHSM.debugbufferflag == 3 )
 			{
@@ -127,6 +125,7 @@ void lighthouse_decode( uint32_t * data, int size_words )
 
 				if( LHSM.debugbufferlen < 5 )
 				{
+					LHSM.timebase += 32;
 					LHSM.debugbufferflag = 0;
 				}
 				else
@@ -134,6 +133,7 @@ void lighthouse_decode( uint32_t * data, int size_words )
 					//Continue the state machine.
 					uint16_t localstate = LHSM.statemachinestate;
 					ProcessMachineState( r>>24 );	//We don't care about storing the output.  It just needs to finish.
+					LHSM.timebase += 24;
 
 
 					//All edges are now populated.  We could operate on them.

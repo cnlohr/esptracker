@@ -91,7 +91,7 @@ static void ICACHE_FLASH_ATTR procTask(os_event_t *events)
 	if( LHSM.configure_state == 1 )
 	{
 		printf( "Configure the TS4231\n" );
-		//ConfigureTS4231( );
+		ConfigureTS4231( );
 		LHSM.configure_state = 2;
 	}
 
@@ -108,6 +108,7 @@ int SendPacket( struct LightEvent * data )
 //Timer event.
 static void ICACHE_FLASH_ATTR myTimer(void *arg)
 {
+	printf( "%d %d\n", LHSM.debugbufferflag, LHSM.debugbufferlen );
 	CSTick( 1 );
 }
 
@@ -220,13 +221,6 @@ void ICACHE_FLASH_ATTR user_init(void)
 
 	//Configure 
 	testi2s_init();
-
-//	PIN_FUNC_SELECT(PERIPHS_IO_MUX_MTCK_U, FUNC_GPIO13);
-//	PIN_FUNC_SELECT(PERIPHS_IO_MUX_MTMS_U, FUNC_GPIO14);
-//	PIN_DIR_OUTPUT = _BV(13) | _BV(14);
-//	PIN_OUT_SET = _BV(13) | _BV(14);
-
-	//Configure the charge pump pins.
 
 	system_update_cpu_freq( SYS_CPU_160MHZ );
 

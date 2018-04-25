@@ -70,7 +70,7 @@ void lighthouse_decode( uint32_t * data, int size_words )
 				LHSM.debugbufferlen = 1;
 				if( !LHSM.configure_state ) LHSM.configure_state = 1;
 			}
-#if 0
+#if 1
 			if( LHSM.debugbufferflag == 1 )
 			{
 				*(LHSM.debugbufferhead++) = r;
@@ -110,7 +110,7 @@ void lighthouse_decode( uint32_t * data, int size_words )
 		{
 			LHSM.timebase += 32;
 	
-#if 0
+#if 1
 			if( LHSM.debugbufferflag == 3 )
 			{
 				LHSM.debugbufferflag = 0;

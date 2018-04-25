@@ -99,7 +99,7 @@ static uint32_t us_ovflow = 0;
 	}
 
 #define ts_digitalRead( pin )	((PIN_IN & (pin))?1:0)
-#define ts_digitalWrite( pin, write_val) { if( write_val ) { PIN_OUT_SET = pin; } else { PIN_OUT_CLEAR = pin; } }
+#define ts_digitalWrite( pin, write_val) { if( write_val ) { PIN_OUT_SET = pin; } else { PIN_OUT_CLEAR = pin; } ets_delay_us(1); }
 
 //checkBus() performs a voting function where the bus is sampled 3 times
 //to find 2 identical results.  This is necessary since light detection is

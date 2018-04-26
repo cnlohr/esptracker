@@ -56,6 +56,12 @@ static void ICACHE_FLASH_ATTR procTask(os_event_t *events)
 	int ic;
 	CSTick( 0 );
 
+	while( 1 )
+	{
+		int r = ProcessLighthouse();
+		if( !r ) break;
+	}
+
 	//Check to see if we have any connected clients we can send data.
 	int there_is_a_connection = 0;
 	for( ic = 0; ic < MAX_LH_CLIENTS; ic++ )
@@ -108,7 +114,7 @@ int SendPacket( struct LightEvent * data )
 //Timer event.
 static void ICACHE_FLASH_ATTR myTimer(void *arg)
 {
-	printf( "%d %d\n", LHSM.debugbufferflag, LHSM.debugbufferlen );
+	printf( "%3d %3d %d %3d\n", LHSM.debugbufferflag, LHSM.debugbufferlen, LHSM.debugmonitoring, LHSM.input_events );
 	CSTick( 1 );
 }
 

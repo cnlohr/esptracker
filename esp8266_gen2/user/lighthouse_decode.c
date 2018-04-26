@@ -25,6 +25,32 @@ void lighthouse_setup()
 	ResetStateMachine();
 }
 
+
+#define buffer_size (128*36)
+static uint32_t buffer_data[buffer_size];
+static int      buffer_head = 0;
+static int      buffer_tail = 0;
+static int      buffer_overflows = 0;
+void lighthouse_decode( uint32_t *  data, int size_words )
+{
+	LHSM.input_events++;
+	int remaining_size = buffer_size - buffer_head;
+	if( size_words < remaining_size )
+	{
+		ets_memcpy( buffer_data + buffer_head, data, size_words * 4 );
+		buffer_head += size_words;
+	}
+	else
+	{
+		ets_memcpy( buffer_data + buffer_head, data, remaining_size * 4 );
+		size_words -= remaining_size;
+		ets_memcpy( buffer_data, data, size_words * 4 );
+		buffer_head = size_words;
+	}
+	if( buffer_head == buffer_tail ) buffer_overflows++;
+}
+
+
 //"Forced inline." :-p
 //This function may look odd.  That's because it is.
 //To see what's really going on in here, check lighthouse_clocking.c
@@ -43,9 +69,29 @@ void lighthouse_setup()
 		LHSM.timebase += localstate >> 10 & 0x0f; \
 	}
 
-
-void lighthouse_decode( uint32_t * data, int size_words )
+int ProcessLighthouse()
 {
+	uint32_t * data;
+	int size_words;
+
+
+	int remain = (buffer_head - buffer_tail + buffer_size) % buffer_size;
+	int remain_to_end = buffer_size - buffer_head;
+	//printf( "%d", remain/128 );
+
+	if( remain > remain_to_end )
+		size_words = remain_to_end;
+	else
+		size_words = remain;
+
+	data = buffer_data + buffer_tail;
+
+	if( LHSM.debugbufferflag == 2 )
+	{
+		buffer_tail = (buffer_tail + size_words) % buffer_size;
+		return 0;
+	}
+
 	int i;
 
 	//Check to make sure we won't overflow our buffers.  Doing this here speeds us up,
@@ -70,7 +116,7 @@ void lighthouse_decode( uint32_t * data, int size_words )
 				LHSM.debugbufferlen = 1;
 				if( !LHSM.configure_state ) LHSM.configure_state = 1;
 			}
-#if 1
+
 			if( LHSM.debugbufferflag == 1 )
 			{
 				*(LHSM.debugbufferhead++) = r;
@@ -99,16 +145,9 @@ void lighthouse_decode( uint32_t * data, int size_words )
 			{
 				LHSM.timebase += 32;
 			}
-#else
-		//*(LHSM.debugbufferhead++) = r;
-
-		LHSM.timebase += 32;
-#endif
-
 		}
 		else
 		{	
-#if 1
 			if( LHSM.debugbufferflag == 3 )
 			{
 				LHSM.debugbufferflag = 0;
@@ -207,7 +246,7 @@ void lighthouse_decode( uint32_t * data, int size_words )
 							uint32_t totalset = bbminus2[0] + bbminus2[1] + bbminus2[2] + bbminus2[3] + bbminus2[4];
 							bbminus2 = &binqty[bestbin-2];
 							uint32_t totalqty = bbminus2[0] + bbminus2[1] + bbminus2[2] + bbminus2[3] + bbminus2[4];
-							if( totalset > 6 )
+							if( totalset > 4 ) //Make sure we don't have a runt frame.
 							{
 								static int stset = 0;
 								//WE HAVE A LOCK on a frequency and good data. Time to populate!
@@ -228,7 +267,7 @@ void lighthouse_decode( uint32_t * data, int size_words )
 						SendPacket( le );
 					}
 
-					if( !le->gotlock || !LHSM.debugmonitoring )
+					if( !LHSM.debugmonitoring )
 					{
 						LHSM.debugbufferflag = 0;
 					}
@@ -238,8 +277,19 @@ void lighthouse_decode( uint32_t * data, int size_words )
 					}
 				}
 			}
-#endif
 		}
 	}
+
+	if( buffer_overflows )
+	{
+		printf( "*\n" );
+		buffer_overflows = 0;
+	}
+
+	buffer_tail = (buffer_tail + size_words) % buffer_size;
+	if( size_words )
+		return 1;
+	else
+		return 0;
 }
 

@@ -8,8 +8,8 @@
 
 #include <c_types.h>
 
-#define DMABUFFERDEPTH 8
-#define I2SDMABUFLEN (256)  //Warning: Making this much smaller can OCCASIONALLY result in missing packets.
+#define DMABUFFERDEPTH 6
+#define I2SDMABUFLEN (128)  //Warning: Making this much smaller can OCCASIONALLY result in missing packets.
 #define LINE32LEN I2SDMABUFLEN
 #define RX_NUM (I2SDMABUFLEN)
 

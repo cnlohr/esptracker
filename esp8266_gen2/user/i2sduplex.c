@@ -35,29 +35,10 @@ LOCAL void slc_isr(void) {
 
 	if ( (slc_intr_status & SLC_TX_EOF_INT_ST))
 	{
-		static int k;
 		finishedDesc=(struct sdio_queue*)READ_PERI_REG(SLC_TX_EOF_DES_ADDR);
-
 		struct sdio_queue * desc;
-
-		int trycount = 0;
-
-		desc = &i2sBufDescRX[k];
-
-		//Warning if your page size is limited, you can get some unusual buffer underflows where there is a missing packet.
-		//This usually only happens if your buffer size is relatively small, i.e. less than 256 words.
-
-		while( desc != finishedDesc ) {
-			desc = &i2sBufDescRX[k++];
-			if( k == DMABUFFERDEPTH ) k = 0;
-
-			uint32_t * data = (uint32_t*)desc->buf_ptr;
-			lighthouse_decode( data, I2SDMABUFLEN );
-			desc->owner=1;
-			trycount++;
-		}
-
-		if( trycount > DMABUFFERDEPTH-2 ) printf( "XF%d*", trycount );
+		lighthouse_decode( (uint32_t*)finishedDesc->buf_ptr, I2SDMABUFLEN );
+		finishedDesc->owner = 1;
 	}
 
 

@@ -56,7 +56,7 @@ struct LHSM_type
 	uint32_t debugbufferlen;			//Only updated at end of packet.
 	uint32_t * debugbufferbase;
 	uint32_t * debugbufferhead;
-
+	uint32_t  input_events;
 	struct LightEvent dhle;  //debug lighthouse event.
 
 	uint8_t configure_state;
@@ -71,5 +71,7 @@ struct LHSM_type
 void lighthouse_decode( uint32_t * data, int size_words );
 void lighthouse_setup(); //Call this first.
 int SendPacket( struct LightEvent * data );
+
+int ProcessLighthouse();
 
 #endif

@@ -1,0 +1,671 @@
+CNLohr	test
+CNLohr	\"Duck Face\" by CDE NCS Release   Free Download / Stream: http://ncs.io/DuckFaceYO
+CNLohr	\"Bubblegum\" by Declan DP https://www.youtube.com/c/declandpsecond https://soundcloud.com/declandp
+CNLohr	\"Outside\" by Ikson Music by: https://www.soundcloud.com/ikson
+CNLohr	\"Critical Hit\" by 360 Degrees \"All my songs as of right now are copyright free\"  - 360 Degrees 2018-03-28 https://360degreesmusic.bandcamp.com/track/critical-hit
+Nikky Snow	hi
+joejoe4games	Hello there
+root	hi
+CNLohr	\"Shadows\" by It's Different Published by NoCopyrightSounds Amazon.com Song ID: 288331452
+Ioan Dragomir	o//
+cheese_PETE	Hey!!
+Dan Runi	hello world
+Jason Spriggs	Hey nerds!
+Ioan Dragomir	no sound?
+kikprog	PepePls
+swifterik	console.log(\"Hello lads\");
+Ioan Dragomir	nvm there's sound
+Jason Spriggs	1 sec, fixing
+Albin Ekblom	awesome! hello everyone :)
+Jason Spriggs	\"Test, Test, Hellooooooooo!\" -charles
+Wumpus24	test
+Dan Runi	reminds me of skype
+swifterik	indeed
+CNLohr	\"Skyline\" by Ikson Music by: https://www.soundcloud.com/ikson
+Dan Runi	Charles, you'll just have to talk to us via interpretive dance
+Dan Runi	there's no other way
+Christoph Bischko	ducking,,, o_O
+Xenthera	What happened to the stream where you were programming a terminal? I hope it's not gone.. 😲
+Daniel Allen	Mother ducker
+abaltazar8	hello 👋
+BHBalast	music to lpoud :c
+Christoph Bischko	@Xenthera I think he said he want's to delete it
+swifterik	#noGUI
+Christoph Bischko	because it didn't go so well
+Major Gnuisance	If the ducking stops working it's because the language didn't support duck typing.
+CNLohr	\"Galaxy\" by Ikson Music by: https://www.soundcloud.com/ikson
+Jason Spriggs	Hi Kids
+pacccer	hi in chat
+SolaLupus	hi guys 😃
+Jason Spriggs	~double test~
+Josiah Tillett	Outlaw is here
+Kapteeni Krisu	Will you lower the music volume a bit? Even with ducking it's difficult to pick your voices up.
+SolaLupus	the music is kinda loud....
+derstreber2	yeah seems a bit loud
+Jason Spriggs	workin on it
+Major Gnuisance	yup, it's too loud
+derstreber2	either that or talking to quit
+tommihommi1	kinda loud is a bit of an understatement
+ThatsEli	music is waay to loud
+tommihommi1	still wayyyyy too loud
+pacccer	better 😃
+CNLohr	\"Heartbeat\" by Ikson Music by: https://www.soundcloud.com/ikson
+Kapteeni Krisu	much better
+Nikky Snow	volume is good
+derstreber2	yeah seems good
+SolaLupus	do you have the dynamic music volume on? its little bit annoying...
+root	yes
+SolaLupus	better
+Major Gnuisance	the music selection not being normalised for loudness might be an issue later, too
+Major Gnuisance	if it's not, that is
+tommihommi1	now take the new lighthouse apart already lol
+MobiusHorizons	morning
+MobiusHorizons	(afternoon where you are)
+CNLohr	\"Hold On\" by Prismo Published by NoCopyrightSounds Amazon.com Song ID: 291848220
+tommihommi1	(evening where I am)
+SolaLupus	evening here too 😃
+MobiusHorizons	ooh, nice
+Julien Revest	Hey!
+Comgenie	They look neat
+pacccer	esp8266 ❤
+tommihommi1	holy crap, props to vive for embracing the hacking scene!
+SolaLupus	neat redesign
+CNLohr	\"zTown (NES)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+cheese_PETE	You just gonna leave your address there haha
+root	It is not \"dangerous\" to make public the address of your house?
+Josiah Tillett	Whoops.
+tommihommi1	inb4 pizza arrives during the stream
+SolaLupus	😀 will be interresting to see what will turn up in his mail in few weeks
+Christoph Bischko	meh, Charles is pretty easy to track down if you put your mind to it
+Jason Spriggs	He doesn't try to hide it 😛
+CNLohr	\"Falling Stars (feat. T.R.) [Ninety9Lives Release]\" by Janji Music provided by Ninety9Lives / No Copyright Sounds Stream / Free Download: http://99l.tv/FallingStarsYU
+SolaLupus	btw, love the on screen chat but it seems to mess up the emojis
+tommihommi1	pls peel off the film
+pacccer	probably not a priority
+Jason Spriggs	I'll complain later about the lack of UTF-8 support
+SolaLupus	@pacccer sure, just saying
+SolaLupus	@Jason Spriggs thx
+CNLohr	\"Love U\" by Razihel https://www.youtube.com/watch?v=OJBxNA8cX-E Download this track for FREE: https://www.hive.co/l/ossn
+tommihommi1	what modulation do they use? OOK?
+expansiongames	this is so interesting
+pacccer	Li-Fi? 😛
+Comgenie	I actually loved it as a decal
+Blue Speck	Oh no, you removed the magic film!
+swifterik	That's a design fail...
+CNLohr	\"Fly Away (Original)\" by TheFatRat Freely available from TheFatRat Featuring Anjulie https://lnk.to/ftrflyaway
+SolaLupus	lol, i thought it was design too 😀
+tommihommi1	I thought you guys were joking about the meaning lol
+derstreber2	if you scratch it before instalation its not our fault 😃
+swifterik	\"Wow, a new Vive logo\"
+swifterik	lol
+Peter S. Hollander	I'd think those are blinders on either side to control the emission of the beams.
+mcd1992	stream lag or music lagging?
+Michaël Zweers	To messure the speed when rotating
+CNLohr	\"My Adult Life (radio edit)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+SolaLupus	probably both of those things
+TheColumna1	no camera
+Nikky Snow	video ?
+expansiongames	i hear it beeping
+SolaLupus	isnt it in the song?
+expansiongames	dont think so
+tommihommi1	just stream from the IR camera
+expansiongames	it stopped
+expansiongames	herro
+Jason Spriggs	test chat
+Josiah Tillett	@Blue Speck I believe the IR filter was removed, he said earlier that he modified the camera.
+Comgenie	we're back!
+Maxjoker98	I think most sensors are IR sensitive. They usually just have a IR filter.
+Ben Jackson	LH2.0 reverse engineering. This is going to be amazing
+Ben Jackson	I don't like popcorn but I am baking bread
+schalotten	the two lasers are arranged in a 90deg angle. that way you don't deed the flash to sync
+Blue Speck	Would love to see the procure for that, I seem to have a similar DSLR. Last time I did that was on a webcam, it was just a piece of glass
+swifterik	Ben arrived 👏👏
+tommihommi1	@blue speck that's a mirrorless
+expansiongames	im curious how error tolerant the data stream is
+Peter S. Hollander	That would mean there would be a limitation on the range at which you can use them at. Arc length needs to sweep for long enough to encode the binary data.
+Blue Speck	indeed.
+SolaLupus	woooh, now its vive livestream 😀
+Peter S. Hollander	Curious to see if that is the case.
+CNLohr	\"Home\" by Jordan Schor & Harley Bird Published by NoCopyrightSounds Amazon.com Song ID: 291848222
+tommihommi1	I think you mean they use on/off keying to encode the data, of course the data itself is binary, we don't use other digital systems in computers
+SolaLupus	would it be possible to encode the angle of the lighthouse emittor at every point of its rotation?
+swifterik	no way
+Peter S. Hollander	Well, there's a chance that it's actually an analogue signal being sent to communicate time signatures.
+Comgenie	Trippy
+tommihommi1	technically yes, but the sensors are too bad for it
+Peter S. Hollander	Playback.
+swifterik	GREEN
+Comgenie	It is green for us
+Nikky Snow	all green ?
+Peter S. Hollander	No they aren't - the documentation for the sensors references analogue measurement, IIRC.
+Peter S. Hollander	Lemme pull it up, brb
+Blue Speck	Sony NEX IR filter removal: pbase(dot)com/pganzel/inside_the_nex_5
+Jernej Jakob	turn off hardware acceleration
+SolaLupus	what is aproximately the rotation speed of the light house rotor?
+Jernej Jakob	in vlc
+cheese_PETE	^^^
+Ben Jackson	50rpm
+tommihommi1	someone send them a chronos
+MobiusHorizons	do you have a high framerate phone?
+CNLohr	\"Unity\" by TheFatRat Freely available from TheFatRat Obtained from the-arcadium.net https://lnk.to/tfrunity
+Ben Jackson	Charles should make a sampling camera to do ultra-high speed photography of repetitive stuff
+MobiusHorizons	i'd be interested to see what that does at 240fps
+SolaLupus	@tommihommi1 we have his address 😉
+tommihommi1	using a phone is a good idea, most don't have ir filters
+Jernej Jakob	I remember my gopro used to do 200+ fps
+Peter S. Hollander	Erm, can't post links. Google \"triad_semi_ts4231_datasheet_rev_a.pdf\", first result should be the datasheet for the 2.0 sensors.
+Peter S. Hollander	Affirmative
+Comgenie	yep
+SolaLupus	yes
+swifterik	Indeed we can
+expansiongames	but do we want to
+Peter S. Hollander	(I'm a SteamVR hardware licensee. Very familiar with 1.0 systems, have already built stuff with 2.0, but have yet to test anything with 2.0 base stations)
+Peter S. Hollander	Eager to see what you guys learn here.
+Jernej Jakob	find . -name \"...\" -print
+expansiongames	o cool
+CNLohr	\"Linked\" by Jim Yosef Published by NoCopyrightSounds Amazon.com Song ID: 291848216
+mcd1992	ayy is yours doing that as well when steam closes?
+mcd1992	xorg freezes up for some reason
+rpavlik1	does your base station 2.0 make an annoying whine at about 3.6kHz?
+Peter S. Hollander	LOL
+MobiusHorizons	@CNLohr have you messed with the tinyfpga? seems like it might be a great diagnostic tool for things like this?
+Peter S. Hollander	It was after my Synapse training
+Peter S. Hollander	I wanted to prove to myself I could make SteamVR hardware from start to finish
+Peter S. Hollander	So I wanted something practical to make
+Peter S. Hollander	So mug it was
+swifterik	Immersive mug VR
+Peter S. Hollander	all-nighter in my college dorm room ^_^'
+Jason Spriggs	Very nice!
+Peter S. Hollander	The hardware I'm working on now is Talaria VR - pressure sensing locomotion hardware for your feet!
+tommihommi1	so you can sit at your desk and drink coffee in VR
+MobiusHorizons	git submodule init
+tommihommi1	while sitting at your desk and drinking coffee Irl
+MobiusHorizons	git submodule update
+Peter S. Hollander	I used it for drinking water after cardio games, like Audioshield, without taking off the HMD
+Josiah Tillett	@Peter S. Hollander Is that the one with the bowl shape that tracks your movements without actually moving?
+rpavlik1	submodule update --init --recursive
+tommihommi1	that's actually a reasonable application
+Peter S. Hollander	No, we were approaching something like that in an earlier design, but now it's foot-mounted wearables. Walk in place, translates to motion in VR
+MobiusHorizons	that looks more like a carrier
+Ben Jackson	licensees don't know either
+CNLohr	\"Time Lapse\" by TheFatRat Freely available from TheFatRat Obtained from the-arcadium.net https://lnk.to/tfrtimelapse
+Peter S. Hollander	Haha, hi Ben
+Ben Jackson	yes, that's fine
+rpavlik1	so I know the guy who designed the chip, dunno if he'll spill the beans
+tommihommi1	pogchamp
+Ben Jackson	the datasheet has the timings
+tommihommi1	#JustESP8266Problems
+rpavlik1	(the guy at Triad Semi)
+Ben Jackson	yes, for how to configure the chip
+MobiusHorizons	@CNLohr, what's the frequency of the pulse?
+MobiusHorizons	basically how high of a resolution do you have on that pulse?
+Ben Jackson	the config word isn't that interesting. it's just a way to make adjustments to the chip after the fab. so you would need to know lots of internal details to know what the bits do
+CNLohr	\"Sugar High\" by JJD Obtained from the-arcadium.net JJD: https://soundcloud.com/jjdofficial
+Ben Jackson	instead of making a bunch of variants of the chip
+Ben Jackson	but once you figure out what it should be, the other values aren't that interesting anymore
+MobiusHorizons	@CNLohr, My first guess seeing that waveform is that the data is the encoded as irregularities in the waveform
+Peter S. Hollander	Hey Ben, are there plans to update the HDK documentation with a system overview on 2.0 Tracking? Was nice to have a standard reference to go back to when making 1.0 hardware
+MobiusHorizons	ie a 1 is probably 0110 vs 010 or something like that
+Ben Jackson	I think there are updates coming, but I don't know if that's in the update
+MobiusHorizons	just to check that theory, can you display the data alternating every other bit
+rpavlik1	is it something like nrzi?
+Peter S. Hollander	Alrighty
+Ben Jackson	FYI @CNLohr that capture doesn't look right to me
+MobiusHorizons	ah, alright then
+CNLohr	\"Campfire\" by RetroVision Published by NoCopyrightSounds Amazon.com Song ID: 288331460
+MobiusHorizons	do you have any kind of scope to look at the data with?
+SolaLupus	^^
+MobiusHorizons	FPGA?
+AdamCarter MI5	I loveeee this
+tommihommi1	right, just looking at the raw analog data with a scope would be fun
+MobiusHorizons	meaning, could you use that datalogger thing you built with the FPGA for this?
+Ben Jackson	it's hard to look at raw analog photodiode signals
+MobiusHorizons	OOOH
+Ben Jackson	you need an amplified photodiode with more bw
+Ben Jackson	@CNLohr that was re the chat
+Ben Jackson	@CNLohr how fast is the ESP sampling?
+Jernej Jakob	could you do something with a sfp optical reciever?
+CNLohr	\"Alright\" by Ghost'n'Ghost Obtained from the-arcadium.net Listen here: https://goo.gl/zquHM1
+Peter S. Hollander	Hahaha
+tommihommi1	maximum powaaahh
+Jernej Jakob	ooh i remember that stream
+Jason Spriggs	For reference: https://www.youtube.com/watch?v=_LnZrXrdC00
+SolaLupus	taking out the big guns
+Ben Jackson	did you look at the datasheet? it should tell you the possible BW of what possible input signals it can process
+Nikky Snow	is this hotswapping ?
+Josiah Tillett	Literally!
+tommihommi1	very 🔥swapping
+SolaLupus	@Nikky Snow good one 😀
+Peter S. Hollander	^ lol
+CNLohr	\"Monody\" by TheFatRat fat. Laura Brehm Freely available from TheFatRat
+MobiusHorizons	what chip are you talking to again?
+Peter S. Hollander	Max input freq is 10 MHz
+Ben Jackson	you should probably move the base and the sensor farther apart
+Peter S. Hollander	Ctrl-F \"freq\" 😂
+rpavlik1	(there is something mechanical in there that is 3.6KHz or multiple thereof, fwiw)
+MobiusHorizons	try it with the basestation off, what does it look like?
+Ben Jackson	@MobiusHorizons good idea
+rpavlik1	yeah they communicate with each other. blue light turns white when they are in good mode, just like old ones
+Ben Jackson	they don't communicate with each other
+Maxjoker98	flickering lights maybe?
+rpavlik1	hmm. they just appear to then apparently
+Ben Jackson	they're blue while spinning up
+rpavlik1	I'm not a licensee so he wins, all I have is observations
+MobiusHorizons	@CNLohr what does it look like when the lighthouse is off?
+mcd1992	have these ever been tested with a HMD ?
+mcd1992	or is t his fresh out of the box
+CNLohr	\"Invincible\" by Deaf Kev Published by NoCopyrightSounds Amazon.com Song ID: 258577408
+Ben Jackson	it is easy to block 2.0 without the blinker
+MobiusHorizons	are you reading a clock pin?
+Peter S. Hollander	lighting?
+Ben Jackson	there's no clock pin
+tommihommi1	put the sensor in a pringles can pointed at the lighthouse
+VladimirDaGreat	oh max
+VladimirDaGreat	this is cnhlor
+Jernej Jakob	led lights or cfls somewhere?
+VladimirDaGreat	ill just stick with jabril
+Josiah Tillett	HI SUPERSOAKER
+mcd1992	maybe its trying to calibrate/sync or something before actual use
+juntistik	hi super soaker
+Peter S. Hollander	hoii
+Comgenie	HI SUPERSOAKER!
+motico core	hello
+BlockBuilder57	hi
+Ethan Sumner	hi
+MobiusHorizons	HI SUPERSOAKER!!!
+SolaLupus	hi super soaker
+Max Bambusman	'ello
+derstreber2	greetings sir supersoaker
+expansiongames	Hi supersucker
+MobiusHorizons	can you ever have enough cables?
+motico core	no
+Ben Jackson	@CNLohr are you sure you powered up and configured the sensor properly?
+derstreber2	bringing out the big guns, in this case a supersoaker
+Ben Jackson	that can make it tricky to just measure the output
+Ben Jackson	b/c you still need active config
+MobiusHorizons	@derstreber2 LOL
+Ben Jackson	you could have glitched it into sleep mode
+tommihommi1	when in doubt:
+Maxjoker98	Still maybe a lightsource? LED lights, screen(backlights)
+tommihommi1	have you tried turning it off and on again
+tommihommi1	and use a pringles can to shield against all other light sources
+Ben Jackson	wait, are you reloading the ESP on every run?
+Ben Jackson	and each run it tries to configure the already-configured sensor?
+Ben Jackson	@CNLohr beep
+MobiusHorizons	@CNLohr ^^
+CNLohr	\"Dawn\" by Ikson Music by: https://www.soundcloud.com/ikson
+Peter S. Hollander	@CNLohr ^^^^^^^^^^
+SolaLupus	just read what ben said
+Peter S. Hollander	lol
+MobiusHorizons	SOMEONE GET HIS ATTENTION
+Max Bambusman	you need wifi? - na I'm fine
+MobiusHorizons	BEN SAID AN IMPORTANT THING
+Christian Ivarsson	Hello, guys 😃
+Ben Jackson	after you configure the sensor it's in a different mode
+Ben Jackson	the initialization sequence won't work then
+Mark Murnane	we need a talking banana to read the chat allow
+tommihommi1	windows is not secure, period.
+Mark Murnane	We need a talking banana to read the chat aloud.
+Maxjoker98	A bananna for the chat?!
+Ben Jackson	don't drive the D/E lines again after config or you will do unpredictable things
+Ben Jackson	so power cycle, send config sequence, D/E go hi-Z and stay hi-Z as long as you want to use it
+Ben Jackson	if you have to drive those during a reload you should powercycle the sensor
+CNLohr	\"Sicc\" by RetroVision & Domastic Published by NoCopyrightSounds Amazon.com Song ID: 288331483
+Peter S. Hollander	Mm, neat
+Ben Jackson	that looks about right for config
+Ben Jackson	you sure you are loading those bits in the right order?
+CNLohr	\"Free\" by Ikson Music by: https://www.soundcloud.com/ikson
+Peter S. Hollander	Affirmative
+Peter S. Hollander	(Can hear you)
+tommihommi1	its fine
+SolaLupus	yeah
+derstreber2	can hear
+Peter S. Hollander	starts with [n], my money's on MSB
+CNLohr	\"Taking Over (feat. Alexa Lusader)\" by OLWIK Published by NoCopyrightSounds Amazon.com Song ID: 250345711
+Josiah Tillett	Boom
+SolaLupus	boom
+expansiongames	moob
+Comgenie	moob
+Peter S. Hollander	@CNLohr what's the clockspeed / res of your data analyzer/
+Nikky Snow	boom
+derstreber2	moob boom
+Maxjoker98	boom
+Maxjoker98	moob
+Kapteeni Krisu	moob
+Nikky Snow	mooB
+derstreber2	moob moob moob moob
+Peter S. Hollander	Did you change analyzers or TS4231s?
+Ben Jackson	that looks potentially right
+Ben Jackson	he changed TS4231s
+Peter S. Hollander	Okay
+SolaLupus	just use that fx3 goodness so you can be sure you see the right thing
+Ben Jackson	where it the sensor in front of the base?
+Mark Murnane	Try moving the sensor farther from the lighthouse?
+Ben Jackson	measure the env timings
+Maxjoker98	Maybe channels out of snyc?
+CNLohr	\"Boss Burger N' Chips (REMIX)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+tommihommi1	someone get him a 200mhz scope with analyzer software
+Josiah Tillett	@Mark Murnane We've already done that, it's about 4 feet away now.
+Ben Jackson	you probalby have a local reflection
+Ben Jackson	a shiny bit right near the sensor
+Ben Jackson	like a connector
+Peter S. Hollander	Ooooooo
+Ben Jackson	no SUPER local
+Ben Jackson	like on the board with the sensor
+tommihommi1	oh
+Peter S. Hollander	Got any solder globs or something?
+tommihommi1	black tape
+Ben Jackson	or just move the base way farther away
+Ben Jackson	yeah black gaffer tape isn't great for IR
+Peter S. Hollander	Did you identify something like a connector close to the sensor?
+Jernej Jakob	sharpie
+Ben Jackson	sharpie is also terrible in ir
+tommihommi1	what about electrical tape
+CNLohr	\"Nostalgia\" by Tobu Free download: https://tobu.io/Nostalgia Amazon.com Song ID: 276438878
+Ben Jackson	the first step to blocking IR is to realize your intuition for what color or transparency things are in IR is shit
+Peter S. Hollander	What do you usually use to block IR, Ben?
+Peter S. Hollander	lol
+majcherek128	Use aluminum foil?
+Max Bambusman	vinyl electrical tape ?
+Ben Jackson	for not reflecting we have some special matte black optical tape that's black in IR
+Ben Jackson	and for blocking transmission you really need foil backed tape
+Max Bambusman	@Ben Jackson aluminium duct tape?
+Ben Jackson	that will definitely block it
+Ben Jackson	but then it's a mirror
+Ben Jackson	the tape we use has foil lining but it's black on the outside
+Ben Jackson	blue painters tape is almost entirely transparent in IR, fyi
+tommihommi1	what about shrink tube
+Jernej Jakob	all i know is trash bags are transparent in ir, thanks to mythbusters
+Max Bambusman	ahh i see, sorry its the next day of my graduation for me xD
+Peter S. Hollander	Huh, good to know
+Naters305	I love how ben just gives subtle hints and doesnt completely give away how it works
+tommihommi1	yay
+Peter S. Hollander	And env is determined when the beam signal is bright enough, yes?
+Ben Jackson	@Naters305 it's kind of like interviewing 😉
+Peter S. Hollander	Been a while since I reviewed the doc
+CNLohr	\"Shine\" by Elgate feat. Spektrem Free download: https://www.hive.co/l/3gpef  https://www.youtube.com/watch?v=n4tK7LYFxI0
+Max Bambusman	@cnlor you could tape a one sided unetched pcb to the sensor
+Naters305	Haha Nice @Ben Jackson
+Peter S. Hollander	Haha awwwww
+Josiah Tillett	test
+Peter S. Hollander	test
+Peter S. Hollander	\u200bIs SUPERSOAKER working on the high-speed analyzer?
+Jason Spriggs	yah
+Peter S. Hollander	👍
+Peter S. Hollander	Would you be able to measure more than 1 TS4231 simultaneously, @CNLohr?
+Peter S. Hollander	Would love to have multiple datapoints within the same sweep
+Peter S. Hollander	Alright.
+MobiusHorizons	can you try putting electrical tape on the connectors?
+CNLohr	\"Holding You\" by Unknown Brain & Spce CadeX Published by NoCopyrightSounds Amazon.com Song ID: 291848223
+Peter S. Hollander	Oooohhhhhhh
+Peter S. Hollander	that'd be rich
+Peter S. Hollander	Then fill in all the gaps
+Peter S. Hollander	So long as your baseline is wide enough to get the \"necessary\" signal contained within its vision
+Jernej Jakob	rubbery black materials are supposedly good at absorbing ir, like plastidip, flexseal, etc. according to the internet
+CNLohr	\"Prelude\" by TheFatRat Freely available from TheFatRat Obtained from the-arcadium.net. Listen at https://lnk.to/tfrprelude
+Jernej Jakob	a tire inner tube maybe?
+CNLohr	\"Early Hours\" by Ikson Music by: https://www.soundcloud.com/ikson
+tommihommi1	isn't there also lots of stuff that's IR-Black, but not black to us
+tommihommi1	maybe heatshrink tube
+pacccer	what about clear tape?
+pacccer	might block ir
+Josiah Tillett	We found good tape, thanks Adam!
+tommihommi1	just take the camera and run around until something looks black
+Peter S. Hollander	@CNLohr re testing - First thing I'd say would be to very stably secure the base and the TS4231 and confirm that at those static positions we get a reliable and repeatable datastream?
+Peter S. Hollander	lol yes for sure
+tommihommi1	the only reliable electrical tape is the 3m stuff, everything else ages really badly
+Peter S. Hollander	just once you do start collecting data, if that'll be today
+Ben Jackson	I'm going to laugh so hard when you figure out what this bitstream is
+tommihommi1	help cant see shit help
+Peter S. Hollander	Oh no, that makes me feel like we're hella overanalyzing it haha
+Ben Jackson	understanding the bits should be straightforward
+Ben Jackson	or rather demodulating them
+Peter S. Hollander	Damn, I want some 2.0 bases now to keep figuring this out xP
+tommihommi1	I love OOK, just for the name
+Ben Jackson	but figuring out what they are might be a crueler challenge than the old wireless protocol
+zpeef	what's the goal today?
+Peter S. Hollander	SteamVR hardware dev
+Josiah Tillett	1) Unboxing, 2)Trying to read the bitstream 3) Doing something with it.
+tommihommi1	just google ben jackson valve :P
+Ben Jackson	@Peter S. Hollander email the VR licensing email (include your account name if it's not obvious) and I can send you some
+expansiongames	im just a fat nerd that like to know how stuff works
+Peter S. Hollander	Oh, thank you Ben!
+MobiusHorizons	I'm also just in the curious nerd category
+Peter S. Hollander	2.0 bases ❤
+Mike Nagy	Ending the stream so soon? But no one has spilled their coffee yet.
+Peter S. Hollander	Looking forward to helping figure it out @CNLohr
+Ben Jackson	What will his chat thing do if 我说汉语
+Ben Jackson	it doesn't like emoticons
+Ben Jackson	oh cool it beeps
+tommihommi1	let me just take this component off and then complain it stops working
+Ben Jackson	this is super handy
+Peter S. Hollander	lol
+CNLohr	\"Kuyenda\" by Lennart Schroot & Unknown Brain Published by NoCopyrightSounds Amazon.com Song ID: 291848217
+Max Bambusman	moob
+Ben Jackson	unicode characters made your terminal beep
+Jernej Jakob	I think the beep is a windows sound and this is linux
+tommihommi1	fucking unicode
+Max Bambusman	i heard that they have a windows machine running somewhere
+tommihommi1	it must be so annoying not to have a hackerspace with nice scopes you can just waltz into 24/7
+tommihommi1	although ours was recently illegaly raided by the police because of some TOR stuff and tight connections to the CCC
+CNLohr	\"Cacao\" by Tobu Free download: https://tobu.io/Cacao Amazon.com Song ID: 284158657
+CNLohr	stat
+Maxjoker98	tommihommi1 I think last friday I almost visited your hackerspace.
+pacccer	which one?
+Jernej Jakob	on my chinese FX2 clone I noticed that the input pins are left in a random output state (high or low, driving current) when stopping the capture
+Jernej Jakob	so the thing is basically useless
+Maxjoker98	CTDO BBQ
+CNLohr	\"Frontier 7\" by Krale Free Download @ https://soundcloud.com/kraleofficial https://soundcloud.com/kraleofficial/krale-frontier NCS Release
+Maxjoker98	Couldn't make it though 😕
+Jernej Jakob	that's what you get for buying stuff from china, I guess
+tommihommi1	I'm talking about the openlab Augsburg
+tommihommi1	so no
+Mark Murnane	Does the new lighthouse stop transmitting if you move it too abruptly like the old one? Do you think we could spin it the other way at 3000 RPM to stabilize the beam?
+pacccer	ah
+Peter S. Hollander	Haha, woah
+Ben Jackson	they stop transmitting when the motor control loop goes out of spec
+pacccer	Hello Openlab from Labitat in denmark 😉
+Jernej Jakob	he has the fx3 version of mine
+mcd1992	the music seems to be getting louder again?
+Ben Jackson	so in theory if you spun the outside at -50rpm very constantly it would work
+Ben Jackson	but your outside motor control loop would need to hold about 200ppm tolerance
+Jernej Jakob	-50hz (3000rpm)
+Mark Murnane	Hmmm
+tommihommi1	ccc(dot)de/en/updates/2018/hausdurchsuchungen-bei-vereinsvorstanden-der-zwiebelfreunde-und-im-openlab-augsburg
+Jernej Jakob	which is conveniently the european ac mains frequency
+Ben Jackson	yeah, I never thought about how hard this would be to reverse engineer from snippets
+tommihommi1	it's an English article even though the url is german
+MobiusHorizons	\\
+Maxjoker98	Oh well. Hi anyway from the /dev/tal in Wuppertal 😀
+CNLohr	\"Blue Sky\" by Ikson Music by: https://www.soundcloud.com/ikson
+Mark Murnane	I wonder what you'd get if you put a diffuser across the entire face of the lighthouse and put the ts4231 next to that.
+Ben Jackson	interesting idea
+Peter S. Hollander	I'd worry that the diffuse signal wouldn't be bright enough anymore to be significant
+Ben Jackson	or point it into an integrating sphere
+Jernej Jakob	that's a cool idea, Mark
+Maxjoker98	Maybe because of the rotation of the 2 beams and the close prxoimity it's getting extra data
+MobiusHorizons	\\ /
+MobiusHorizons	darn chat won't let me draw ascii art
+tommihommi1	wouldn't the esp32 be much faster for this stuff, it clocks way higher
+Ben Jackson	@CNLohr you didn't forget about power cycling if you want to reconfigure, right?
+MobiusHorizons	could you use mirrors on the side to keep the beam in view longer
+Ben Jackson	you should just power it with a fet so you can toggle it in the boot sequence
+Jernej Jakob	the diffuse light source would pose less of a problem for reflections
+tommihommi1	how much current does the ts need?
+Ben Jackson	@MobiusHorizons the shape of a flashlight beam reflector has the properties you want (i.e. it kind of collimates light)
+pacccer	tommihommi1, not even is the esp32 faster, but it probably also has peripherals that could help taking the load off the cpu, like the hardware counters etc.
+CNLohr	\"Atlas (Alpha 9 Remix)\" by Faux Tales Obtained from the-arcadium.net Listen here: https://goo.gl/2d9h4t
+MobiusHorizons	@Ben Jackson that's pretty much what I was thinking
+SolaLupus	who is the one breathing to the mic ? 😀
+tommihommi1	NotLikeThis
+mcd1992	also somone is right up on the mic
+MobiusHorizons	but actually Mark's idea of a difuser might be easier
+Ben Jackson	what, you don't want to build an integrating sphere?
+pacccer	yeah, whats up with the heavy breating into mic? 😛
+pacccer	someone snoring in the background? 😛
+Jernej Jakob	ASMR
+Peter S. Hollander	@CNLohr is your code for interfacing the TS4231 available online?
+pacccer	no worries, it was subtle
+tommihommi1	neat
+Josiah Tillett	@Peter S. Hollander Charles' github @ esptracker
+Peter S. Hollander	Thank you!
+pacccer	@CNLohr doesn't the esp have a bunch of interrupts like wifi interrupt that disturbs the sampling? or have you disabled them during sampling?
+CNLohr	\"Last Summer\" by Ikson Music by: https://www.soundcloud.com/ikson
+MobiusHorizons	would some combination of foil + tape work to do what your hand was doing?
+Peter S. Hollander	@CNLohr you might not get the envelope signal with the diffuse approach - it responds to light intensity crossing a threshold, per the docs
+Mark Murnane	He uses hardware to do DMA
+pacccer	ah, got it 😉
+Peter S. Hollander	Yeah, I agree
+Mark Murnane	I'm assuming that we don't care about the envelope, and that all sensors are sampling a chunk of the same bitstream.
+Peter S. Hollander	IR Diffuse***
+Mark Murnane	Or just aim the lighthouse at the wall and use that as a diffuser.
+CNLohr	\"Journey\" by Declan DP www.declandp.co.uk YT Page: https://goo.gl/wczgeZ Creative Commons - Attribution 3.0 Unported
+mcd1992	plastic bag ?
+tommihommi1	wall OP pls nerf
+Ben Jackson	I love the juxtaposition of how clever an idea that is vs how much it will not help you at all :)
+mcd1992	mood killer
+MobiusHorizons	please continue
+Peter S. Hollander	Pro'lly the wall.
+Ben Jackson	how much of a hint do you want
+Ben Jackson	the wall would work
+Peter S. Hollander	Maybe a diffuse reflector?
+Peter S. Hollander	Hahaha
+Peter S. Hollander	@CNLohr the wall will work, the data we get won't be useful compared to a single frame capture is I think what he's getting at.
+Peter S. Hollander	There won't be anything useful about getting the diffuse data?
+Ben Jackson	oh, no, the wall will be more useful
+Ben Jackson	wall is strictly a good idea and an improvement over short captures
+Ben Jackson	and you will easily figure out 1s vs 0s
+tommihommi1	this is basically an escape the room scenario with ben skirting around the edge of trying to make it fun without spoiling it
+CNLohr	\"Station Report (Extended Intro)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+Peter S. Hollander	Oh, okay - were you not talking about the wall when you said \"it\" won't help at all?
+Ben Jackson	right
+Ben Jackson	I mean having a longer sequence of bits won't help you
+Peter S. Hollander	Oooookay
+pacccer	its kind of like watching saw and ben \"wants to play a game\" 😛
+Peter S. Hollander	Gotcha..
+Peter S. Hollander	also @pacccer lol
+ibrahim abukharmeh	Get an intel wireless card for 5 dollar or something 😛 It looks you wireless card linux drivers are terrible.
+Ben Jackson	😃 😃 :)
+Peter S. Hollander	A longer sequence of bits will likely just reveal to us that the bits repeat.
+Peter S. Hollander	But
+Peter S. Hollander	well no
+MobiusHorizons	@CNLohr are you logging the chat?
+Peter S. Hollander	they have to encode timing somehow
+MobiusHorizons	(might be a good idea)
+tommihommi1	how about we find out what the encoding is, that should be easy enough
+Ben Jackson	so @Peter S. Hollander has decided to start cutting off his leg with the saw ;-)
+CNLohr	\"C64est\" by Inverse Phase Visit http://inversephase.com
+MobiusHorizons	um what?
+Peter S. Hollander	😂
+Praxis	Just export it out of saelae.
+Peter S. Hollander	How else can you encode the time signature / sweep angle into the data..?
+pacccer	is there what, 3 different lengths of pulses?
+Max Bambusman	@Ben Jackson how much do you/steam want the vive to be reverse engineered?
+pacccer	salae might possibly even be able to decode the stream
+MobiusHorizons	enough to give one to cnlohr...
+pacccer	hahah
+Mark Murnane	In this episode, Charles goes bankrupt.
+Peter S. Hollander	hahaha
+CNLohr	\"A Blip in Space (Miniboss)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+Josiah Tillett	boom
+Blue Speck	or discovers torrents.
+Praxis	Manchester?
+Ben Jackson	when I designed it originally I started by capturing with saleae and decoding w/ python
+Ben Jackson	it will export to CSV
+Ben Jackson	then I wrote a saleae plugin to demodulate which is fun
+Peter S. Hollander	Haaaahahahaa
+Peter S. Hollander	Get the saleae!!
+Peter S. Hollander	I'm starting to think the datastream is just the lighthouse identifier code... And the ID is short enough to be captured within 1 envelope at whatever the max tolerable range is
+tommihommi1	rtlsdr
+Peter S. Hollander	But of course that begs the question of how is the beam angle telegraphed to the device.
+pacccer	@CNLohr not gonna' happen - read bens comment
+ibrahim abukharmeh	Sigrok ?
+Mark Murnane	When you say beam angle do you mean the motor angle or which lense the beam is passing through?
+MobiusHorizons	i would imagine the angle is encoded as a rising sequence
+Max Bambusman	@Peter S. Hollander Magic
+CNLohr	Error opening file: No such file or directory Unknown track by Unknown artist Unknown copyright information.
+Jernej Jakob	missing a zero?
+tommihommi1	do you believe in magic
+Praxis	My guess is its another timestamp. That would make sense.
+Peter S. Hollander	And Ben's cryptic answers are making me start to question if the beam angle is even flipping necessary anymore or if you guys at Valve found some even more magical to find radial positioning hahaha
+Ben Jackson	you typo'd 6MHz as 600kHz at some point
+Peter S. Hollander	@Mark Murnane correct, motor angle / timestamp
+MobiusHorizons	@CNLohr did we just run out of music, that music chat was silly
+MobiusHorizons	(no such file)
+Jernej Jakob	^^^
+Ben Jackson	the saleae protocol decoders are asynchronous and run in another thread
+Ben Jackson	so there can be weird latency
+Jernej Jakob	maybe it's higher
+Mark Murnane	I think you have to derive the motor angle from the window output.
+Ben Jackson	I've never tried to use the manchester module
+Ben Jackson	it probably would want 6Mhz differential manchester
+Mark Murnane	That's a pretty big hint.
+tommihommi1	in a few years, software like this will use a neural net to identify the encoding
+MobiusHorizons	@CNLohr it's definitely not Manchester 😃
+Ben Jackson	you sure that's not decoding?
+Jernej Jakob	differential manchester is a different option in the drop-down
+Ben Jackson	hmm
+Peter S. Hollander	Hahahahahaha
+tommihommi1	F
+Tacit Tacet	when will you be back?
+tommihommi1	FFFFFFF
+Ben Jackson	silicone labs
+daicon	How long did it take you to debug at this level?
+Ben Jackson	hmmmm
+pacccer	just thinking out loud... but... doesn't wireshark decode a bunch of stuff also? maybe export to csv and import to wireshark
+Josiah Tillett	@Everyone 9:15PM EST for the stream to come back online
+Blue Speck	use it as a bribe and get a source from an engineer
+daicon	learn to^
+Peter S. Hollander	@Mark Murnane I know, at least that's what I've been assuming we need to have... But maybe there's another solution we haven't looked at yet.
+joejoe4games	Well I won't be joining you then, it's already 23:00 in here in Germany... 😀
+Praxis	700 for the 8ch one, I paid that much for their 16ch one like a year ago.
+Peter S. Hollander	Or maybe it's a 2- or 3-bit header for the lighthouse ID, and then just counting up ticks every transmitted byte (or however long the data is)
+pacccer	if we could get an export of the data
+pacccer	we could analyze on it
+Jernej Jakob	try selecting differential manchester
+vihapuu	have you tried sigrok?
+Peter S. Hollander	But Ben's really got me thinking each byte is the same, ie an ID.
+Mark Murnane	Can you upload the salae file?
+Ben Jackson	try differential manchester, 6MHz, one bit per transfer
+Peter S. Hollander	lol
+Praxis	Export a CSV from Saelae, I know that's possible, right?
+Ben Jackson	I wonder if that would work
+tommihommi1	you can get a decent 2ch scope from keysight for that price, and then hack it to get all the software options. Might be more useful than a usb analyzer
+Ben Jackson	I could find a capture and test
+Jernej Jakob	yeah you've got 8 bits per transfer
+Peter S. Hollander	Maybe that's the joke.
+Peter S. Hollander	lol
+tommihommi1	wrong settings
+Ben Jackson	maybe it wants 3?
+Ben Jackson	does it want 12?
+pacccer	i believe salae has \"export csv\"
+Ben Jackson	it does
+Blue Speck	you could have decoded it manually by now
+Tacit Tacet	could you give a quick rundown of how the new lighthouse mechanics works? (or how you think I works at this moment)
+schalotten	Try 4 or 8 Mhz
+MobiusHorizons	YAY
+Ben Jackson	@CNLohr turn off your unused channels to capture
+CNLohr	\"Make Me Move (Tobu Remix)\" by Culture Code Published by NoCopyrightSounds Amazon.com Song ID: 288331464
+Ben Jackson	time to 也说汉语
+pacccer	hehe
+Peter S. Hollander	lol
+ibrahim abukharmeh	hahah
+pacccer	@Ben Jackson do we need a higher sample rate?
+Josiah Tillett	@Peter S. Hollander I think he knows? He disabled them when he exported.
+Ben Jackson	@pacccer I just realized when he was exporting that he had all channels on
+CNLohr	Error opening file: No such file or directory Unknown track by Unknown artist Unknown copyright information.
+Peter S. Hollander	Affirmative.
+mcd1992	gitlab has snippets @MobiusHorizons
+Ben Jackson	not sure where he captured
+Jernej Jakob	disabling them when capturing will give you a higher sample rate option that isn't there otherwise
+Praxis	They need to be disable when capturing, not exporting.
+ThatsEli	music died again
+Ben Jackson	@Jernej Jakob right
+CNLohr	\"Your Stories\" by Cartoon Published by NoCopyrightSounds Amazon.com Song ID: 288331479
+pacccer	right, but we dont *need* a higher rate?
+Josiah Tillett	github : cnlohr/esptracker
+CNLohr	https://github.com/cnlohr/esptracker/tree/master/esp8266_gen2/data
+MobiusHorizons	yay, thanks for data
+Peter S. Hollander	See y'all later
+pacccer	maybe see you in discord guys
+SolaLupus	see ya

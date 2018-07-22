@@ -669,3 +669,331 @@ MobiusHorizons	yay, thanks for data
 Peter S. Hollander	See y'all later
 pacccer	maybe see you in discord guys
 SolaLupus	see ya
+CNLohr	test
+pacccer	it says pt 2
+Arsenio Dev	Kicked this on in the background while I try (and fail badly) to write machine vision framebuffer handlers.
+Josiah Tillett	Josiah Here.
+Arsenio Dev	I see part 2, no electric boogaloo
+CNLohr	\"Turtlenecks\" by Inverse Phase Visit http://inversephase.bandcamp.com
+Tschirgi Games	Oh cool, i was curious about the tech differences in 2.0- i hear 4 can run with overlap and still work
+Tschirgi Games	I also heard rumors someone testing got like 16 running total across multiple rooms
+pacccer	cnlohr, could you do another export from saleae maybe with display radix to hex instead of ascii?
+Perlmongler	boom
+MKme Lab	Here 😃
+Afonso Muralha	boom
+MKme Lab	boom
+Arsenio Dev	@CNLohr any time frame on the next hackerhouse day? I'd like to have a poke around the rev1 skeletons
+Arsenio Dev	I have seen this and it is MAGIC.
+CNLohr	Error opening file: No such file or directory Unknown track by Unknown artist Unknown copyright information.
+Tyler H.	How would you run the vive on such a small card?
+CNLohr	\"Kuyenda\" by Lennart Schroot & Unknown Brain Published by NoCopyrightSounds Amazon.com Song ID: 291848217
+MKme Lab	May wanna try something like the Media Tek X20 or newer
+Arsenio Dev	@Tyler H. a lotta magic and charles brand shenanigans
+Shawn Drew	Rock 64 is nice but has some untapped potential software wise still
+Arsenio Dev	Yeppo, @soaker if you need some teachers for test equipment crash courses or whatever, gimme a shout and I can take some teaching
+CNLohr	\"Boss Burger N' Chips (REMIX)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+Tschirgi Games	yea!
+Tschirgi Games	Haha all good
+Arsenio Dev	YES, being able to take an aptitude test for signoff is awesome
+pacccer	couldn't find any program that would accept it
+pacccer	been working with sigrok / pulseview
+pacccer	and same for wireshark
+pacccer	they didnt like the format
+Arsenio Dev	@CNLohr I was talking about the RPI Vive
+axlecrusher	yo @CNLohr
+pacccer	yeah, well... i plotted it instead 😛
+TCL987	Are you doing distortion correction in the vertex shader like Google Cardboard?
+MKme Lab	Cheers @Arsenio Dev
+pacccer	just tried to leverage some of the existing protocol analyzing tools
+Perlmongler	@arsenio yes please
+CNLohr	\"Frontier 7\" by Krale Free Download @ https://soundcloud.com/kraleofficial https://soundcloud.com/kraleofficial/krale-frontier NCS Release
+axlecrusher	@cnlohr, did you figure out the RPi ogl call latency?
+Perlmongler	if you want to help with classes and teaching that be great. you get a cut of class fees btw for teaching
+Eric Petersen	Does openVR help in hacking the Vive or does it not matter?
+Arsenio Dev	@CNLohr If it's saturday night-sunday I'll take the hop up
+pacccer	probably plotting the data and visually analyzing it should be fine also
+Arsenio Dev	@Perlmongler oh that's an extra bonus. Nice.
+Tschirgi Games	Sweet
+Tyler H.	Would you have to write your own program to run the vive on the pi without the compositor or is there something pre written? I'd really love to mess with it.
+Matthias B.	music is too loud
+still depresso	^
+still depresso	might as well turn it off tbh, or choose another one. this one is too dubstep-y imo
+pacccer	you were lucky the protection plastic was ir transparent also :
+MKme Lab	^
+CNLohr	\"Jackpot\" by TheFatRat Freely available from TheFatRat Obtained from the-arcadium.net. Listen at https://open.spotify.com/track/3TkX3Xpb4wNNv8226fupx0
+Ben Jackson	note that the laser line comes out perpendicular to the stripes you see on the lens
+pacccer	yup
+CNLohr	\"Energetic Fist (Stage Theme)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+2TimesP	Hey pacccer
+Arsenio Dev	fair play
+pacccer	valve has been pretty awesome in regards to this project
+Ben Jackson	well you can't take it apart because it's impossible to take apart
+pacccer	hey p 😃
+2TimesP	😀
+Arsenio Dev	Valve is pretty great about this whole thing tbh
+Ben Jackson	I'm waiting for ifixit to give it a -1 on the servicability scale
+Andrew Shevchenko	😀
+Andrew Shevchenko	Ben are you from valve?
+Tschirgi Games	Ive heard thats what it will be, cheaper than buying gen 1 lighthouses individually because they have less parts i guess
+axlecrusher	@cnlohr, did you figure out the RPi ogl call latency?
+Josiah Tillett	@Andrew Shevchenko Yes, he's one of the vive devs.
+Andrew Shevchenko	cool 😀
+qbz32	so, does this mean that each lighthouse allows you to calculate an angle between the axis of beacon rotation and direction to sensor?
+pacccer	wtf - is that clicking rf going into the mic ?
+pacccer	when pointing the camera at the base
+Andrew Shevchenko	so these new ones have less moving parts I've heard, have they managed to make them fully solid?
+CNLohr	\"Unit F (VRC6)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+Arsenio Dev	LOL I can hear some USB traffic coupling going into the mic
+TCL987	Are these Model 1004?
+Ben Jackson	1004 is the start of all of our model numbers
+pacccer	ben, does the base send rf?
+TCL987	I'm looking at one of the lighthouses that came with my Vive Pro
+Ben Jackson	only for management
+TCL987	It's model 1004
+òxigene b.	Nice work, keep moving!
+pacccer	pretty sure i heard clicking when camera was pointing at the base
+Bllinker	why aren't you using sigrok?
+CNLohr	\"Fly Away (Original)\" by TheFatRat Freely available from TheFatRat Featuring Anjulie https://lnk.to/ftrflyaway
+camrod	I am at work doing webdev and was literally listening to your videos thinking \"I wish he was live\"...well he is live
+TCL987	I'm hoping HTC or Valve will sell 2.0 lighthouse separately soon
+Ben Jackson	@CNLohr turn off the unused saleae channels
+Ben Jackson	that will unlock higher bw options
+LogicalOne	apt-get update –fix-missing
+Arsenio Dev	dang it soaker you have the same phone notification sound
+Ben Jackson	ohhh non-pro
+LogicalOne	dpkg –configure -a
+Arsenio Dev	throws me off lol
+pacccer	the cypress fx2 ez usb
+pacccer	probably
+CNLohr	\"The Calling\" by TheFatRat (feat. Laura Brehm) Freely available from TheFatRat Obtained from the-arcadium.net. Listen at https://open.spotify.com/track/2k1bFfcPIRTMeCGO48F0OE
+TCL987	I'm still using my 1.0 lighthouses and controllers because I'm waiting until my current controllers' trackpads fail before switching to the 2.0 controllers but I'd switch to a 4 lighthouse setup.
+pacccer	the fx2 is pretty interesting
+pacccer	fx2 is cheap, fx3 is not
+Arsenio Dev	Curse the FTDI!
+pacccer	ftdi... those bastards 😉
+qbz32	do I understand correctly that beacons stream data by modulating lasers, not just shining monotone laser light?
+Arsenio Dev	Nowadays for UART stuff I use Silicon Labs CP2102s
+pacccer	or ch340
+pacccer	oldie but still works fine
+MKme Lab	Grrrrrrrr FTDI BS- that was BRUTAL CH340 FTW
+Arsenio Dev	not a huge fan of the ch340s for broad deployment, silabs are super nice
+pacccer	they probably bricked some very expensive machines
+MKme Lab	never deliberately bout an FTDI chip ever since. Go out of my way to find CH340
+CNLohr	\"Cacao\" by Tobu Free download: https://tobu.io/Cacao Amazon.com Song ID: 284158657
+MKme Lab	Agreed- it was gross what they did
+pacccer	greedy stuff, that probably ends up costing them more than they gained for that foolishness
+pacccer	or at least i hope so
+MKme Lab	They actually seemed to get away with it
+MKme Lab	sadly
+pacccer	well, people are avoiding ftdi now
+pacccer	so not getting away with it in this sense
+MKme Lab	Im glad when people remember it and speak on it- it was such a small blip in the grand scheme of life- good to have reminders for new players 😉
+TCL987	Risk of random bricking if your supply chain gets compromised with clones is a real engineering concern.
+MKme Lab	Absolutely
+MKme Lab	Massive risk
+MKme Lab	You cannot be sure they are 100% genuine
+Arsenio Dev	Hell the clones getting into the main supply chain all sneeki breeki is happening shockingly frequently
+CNLohr	\"Falling Up\" by Y&V Published by NoCopyrightSounds Amazon.com Song ID: 288331462
+pacccer	I've heard about military airplanes where fake chips were found
+Ben Jackson	turns out you can tell if your supply chain is compromised if FTDI makes their drivers fail on those devices
+axlecrusher	even digikey has hoad problems with counterfeit chips
+pacccer	so yeah, pretty much sneaks in everywhere
+MKme Lab	Guaranteed it happened- they permiated every industry
+TCL987	Just fly to the factory, watch them make them, pick up the package yourself, and carry it to your board assembler yourself. /s
+pacccer	but... milspec 😛
+MKme Lab	Only became a problem when they did malicious \"reprocussions\"
+MKme Lab	Yes they did it twice
+Ben Jackson	well if FTDI found out that your devices included counterfeit chips they could sue to prevent you from importing them
+Arsenio Dev	didn't it just spew garbage on both TX and RX?
+MKme Lab	And Windoze also contributed by screwing over the CH340 drivers
+pacccer	first time, they set serial to 0 i believe, which made the devices inoperable
+pacccer	second time they were outputting some text on serial i belive
+pacccer	i think most of us agree on the ftdi thing
+MKme Lab	Hahah I gotta run. Great to catch the stream live. Will catch the rest on replay. good seeing ya @Arsenio Dev and all
+MKme Lab	Happy hacking 😉
+pacccer	cya
+CNLohr	\"Galaxy\" by Ikson Music by: https://www.soundcloud.com/ikson
+TCL987	I wouldn't expect FTDI to be able to figure out you have counterfeit chips if they were slipped into your supply chain without your knowledge.
+Arsenio Dev	Slaters eric!
+MKme Lab	Cheers Budddy. Catch up on that rocket guidance someday 😃
+Arsenio Dev	ughhhhh I'm trying to update my 8266 board core and it's going 10kbs
+pacccer	whats the purpose of this script?
+axlecrusher	%fl
+CNLohr	\"Lazer Beam\" by Pure100% Obtained from the-arcadium.net Listen here: http://open.spotify.com/album/6y249DpxFb55rVdqQXTWNA
+qbz32	can I has data dumps?
+Donald Duncan	that stackoverflow had it: %lf
+Bllinker	lf
+pacccer	going to be interesting to see how you're doing the analyzing part
+Toble_Miner	%lf
+camrod	Good laptops for programming with good linux compatibility?
+pacccer	lenovo
+Ben Jackson	?
+Ben Jackson	I don't care about FTDI
+Arsenio Dev	@camrod XPS13s are real nice and decently cheap too!
+derstreber2	dodged a bullet there
+Arsenio Dev	That would be correct soaker
+CNLohr	\"Home\" by Jordan Schor & Harley Bird Published by NoCopyrightSounds Amazon.com Song ID: 291848222
+Josiah Tillett	@Arsenio Dev Me actually. I think you're the only other person I've met who recommends dell laptops to people.
+axlecrusher	i have had good luck with asus laptops
+camrod	XPS13 was one of the top on my list. Also, Zenbook and Lenovo...I think XPS is the way to go tho
+Ben Jackson	what was the capture frequency?
+Arsenio Dev	@Josiah Tillett Hahahah im bad with names They're fantastic builds, nice keyboards and power use while still packing fantastic IO
+Arsenio Dev	plus dat carbon fiber tho
+axlecrusher	i'm convinced dell is garbage unless you get their several grand business class stuff
+pacccer	possibly 24 MHz
+Ben Jackson	that's a good choice
+Arsenio Dev	yeah that's fair, their low end stuff, like most is pretty gabbage.
+Afonso Muralha	love the thinkpads
+CNLohr	\"Candyland\" by Tobu http://youtube.com/tobuofficial Licensing information: https://tobu.io/Candyland/download Released by NCS https://www.youtube.com/NoCopyrightSounds Amazon.com Song ID: 260818484
+Arsenio Dev	@Afonso Muralha the new ones have awful keyboards
+Afonso Muralha	yes i don't like the new ones
+Arsenio Dev	though there is a botique $450 motherboard for an older one with a i5 8th gen
+Tschirgi Games	is the data output probably used for replacing the flashes that the 1.0 gen had? As far as differentiating between multiple lighthouses?
+qbz32	adding 20% resolution wouldn't help with this
+Arsenio Dev	so you can slap the new motherboard into your good old style machine and BOOM. gold
+Afonso Muralha	boom
+Arsenio Dev	@CNLohr I can borrow the saleae pro16 from work for next week if you want more sampling
+pacccer	CY7C6801xA
+amoose136	Do you have a preferred non-ftdi like chip to add USB functionality?
+Arsenio Dev	isn't that like an 8051 core?
+pacccer	yup
+Arsenio Dev	WILD
+CNLohr	\"Last Summer\" by Ikson Music by: https://www.soundcloud.com/ikson
+pacccer	but it can do 480 mbit usb
+Ben Jackson	I feel like you could get something out of 24MHz the way you're capturing
+Ben Jackson	one thing to consider: how would you modulate this if you were doing it?
+Arsenio Dev	question is, are we gonna be hitting nyquist?
+Ben Jackson	does it make sense if 1's are \"long\" and 0's are \"short\"? that's not a constant bitrate
+CNLohr	\"Monody\" by TheFatRat fat. Laura Brehm Freely available from TheFatRat
+Ben Jackson	sure, but that's partly down to how you analyzed it
+Ben Jackson	your analysis method *adds* phase noise
+Ben Jackson	because you add in all phase noise in every edge
+Arsenio Dev	@CNLohr My 8266 is bootlooping with reset cause 4. What do?
+Ben Jackson	man this is serious deja vu for me
+Ben Jackson	you really want some mulitple of 6 or better 12 or your life is going to be even harder
+pacccer	they are probably HUGE
+Ben Jackson	I used 500 :)
+CNLohr	\"Shadows\" by It's Different Published by NoCopyrightSounds Amazon.com Song ID: 288331452
+pacccer	why is donalds comment not displayed on the broadcasts chat?
+pacccer	bug?
+Josiah Tillett	It might have been dropped out when we refreshed the stream chat?
+pacccer	if you're going to export csv again
+pacccer	please go to options
+pacccer	and select the radix as hex
+Ben Jackson	going to have to go soon
+Ben Jackson	if you want to request any specific hints before, now's the time
+Ben Jackson	I want to see your reaction when you figure it out, but I think it might take a few more streams...
+derstreber2	you can't compare two different recordings at different rates to get more detail can you? Probably wouldn't line up and the actual behavior might change with each run though. just a thought
+CNLohr	\"64 Squares\" by Inverse Phase Visit http://inversephase.bandcamp.com
+Ben Jackson	your analysis with your eyes just scrolling along was good
+Ben Jackson	your question about bit stuffing already includes an incorrect assumption
+Ben Jackson	so the answer is \"mu\"
+CNLohr	https://drive.google.com/drive/folders/1iN0vuhsRMY6tCWZOCC9F4SSBbT9ljmq7?usp=sharing
+Brian Monaghan	mu is neither yes or no, because the question is so very wrong
+Ben Jackson	yes
+Ben Jackson	although it's DC balanced regardless
+Brian Monaghan	no, I am not important
+Ben Jackson	he's right about \"mu\"
+Ben Jackson	the bitstream AND the encoding are both dc balanced
+Ben Jackson	you kind of asked about one
+Ben Jackson	re: bit stuffing
+Ben Jackson	yes
+Ben Jackson	YES
+Ben Jackson	oh man you're so close :)
+Oti	rip
+CNLohr	\"Into the Wild\" by Kovan & Alex Skrindo Published by NoCopyrightSounds Amazon.com Song ID: 288331458
+Ben Jackson	got to go, catch up with you all later
+Arsenio Dev	And ben leaves after he throws a big wrench into the stream LOL
+derstreber2	farewell ben
+Arsenio Dev	bye
+2TimesP	Have a great one. 😃
+Brian Monaghan	aww, I was hoping it was something like 8b/10b
+axlecrusher	bencoding 2.0
+derstreber2	lol these conversations with ben are like \"mirror mirror on the wall...\"
+CNLohr	\"Elegy\" by TheFatRat Freely available from TheFatRat Obtained from the-arcadium.net https://lnk.to/tfrelegy
+Brian Monaghan	bummer you don't want to open the lighthouses, measure and compare angle to encoding.
+pacccer	and this is why i wanted to use existing protocol analyzers
+Brian Monaghan	or at least one pass to the following pass
+Brian Monaghan	didn't he say 1 bit per transfer
+CNLohr	\"Nekozilla\" by Different Heaven NCS Release on NCS Infinity Album Amazon.com Song ID: 260818482
+Brian Monaghan	earlier livestream, ben said 1 bit per transfer. it is an option in manchester
+ibrahim abukharmeh	Yes he did say that
+pacccer	giving it a go with latest saleae data export
+ibrahim abukharmeh	I think it was something in the settings of salee manchester encoding options in salee
+ibrahim abukharmeh	!
+Donald Duncan	in anaylyzer settings, middle drop down is x bits per fransfer
+ibrahim abukharmeh	there is there 8 bit per transfer
+ibrahim abukharmeh	change it to 1 ! he said
+Jake Bytes	10101010101010101
+CNLohr	\"Go 4 It (Original)\" by Nitro Fun Obtained from the-arcadium.net Listen here: https://open.spotify.com/track/2bkuJwSgskVJF9O0uWcm0v
+pacccer	👍
+J G	sounds dope
+axlecrusher	do it
+pacccer	thats a yes
+Jake Bytes	Go for it
+camrod	Go for it. I love seeing how other people go at solving problems
+J G	I would really like to see a 100mhz loogic analyzer out of that dev board
+Brian Monaghan	gives your subconscious a rest
+Josh Thomas	yes yes
+pacccer	not possible
+CNLohr	\"Duck Face\" by CDE NCS Release   Free Download / Stream: http://ncs.io/DuckFaceYO
+Brian Monaghan	entirely selfish reasons
+CNLohr	\"Lights\" by Ikson Music by: https://www.soundcloud.com/ikson
+ibrahim abukharmeh	Malloc
+ibrahim abukharmeh	?
+LogicalOne	have you played around with ESP32 yet?
+douro20	Designed your own chat software?
+Jake Bytes	The esp 32 would be fun to watch
+Perlmongler	Now I am looking for logic analyzers
+Arsenio Dev	@Perlmongler welcome to the test equipment rabbit hole
+CNLohr	\"Colors\" by Tobu http://youtube.com/tobuofficial Released by NCS https://www.youtube.com/NoCopyrightSounds Amazon.com Song ID: 245542228
+axlecrusher	house floods live on youtube
+Bllinker	bytes/1000.0?
+Arsenio Dev	LOL
+Arsenio Dev	Just get a leaf blower and blast the water out that way\\
+douro20	Logic analyzer mainframes are US$200-300 all day on eBay...and I'm talking about good ones
+Bllinker	It's bytes/1000, not bytes/1000.0
+Arsenio Dev	gotta get dem youtube views xD
+Josiah Tillett	\"In today's stream, we're going to configure an ESP8266 to activate my sump pump whenever the forcast predicts precipitation!\"
+Ben Jeffery	When my sump pump died, I only had a regular submersible pump with no float switch as a backup. I wanted to go to bed, so at 2am I grabbed an arduino and a relay to make a capacitive float switch
+douro20	Getting tons of rain over there?
+douro20	Arduino is overkill for that application...but then if you need a quick fix...
+CNLohr	\"Melomania\" by Tobu Free download: https://tobu.io/Melomania/download Amazon.com Song ID: 286618908
+Arsenio Dev	Actually I wish I had an 8266 in 2012, we were away from the house during a cold snap and our oil furnace died, blew out a few radiators and leaked gungy water
+douro20	We have two 70-pint Frigidaire dehumidifiers in our crawl space. Need to upgrade to ones with hot gas defrost one of these days.
+Ben Jeffery	@douro20 Very overkill, but it's all I had. The \"sensor\" was a couple wires taped together about a cm apart and hung in the sump, hooked up to the 5v and analog pins on the arduino.
+CNLohr	\"Holding You\" by Unknown Brain & Spce CadeX Published by NoCopyrightSounds Amazon.com Song ID: 291848223
+axlecrusher	bitrot
+douro20	I wonder how well an ultrasonic sensor would work.
+douro20	The break down of cells in flash memory by subsequent writes
+mcd1992	flash memory 'glitching' where crc/ecc doesn't correct
+Brian Monaghan	deterioration of software over time, not actual decay, but lack of responsiveness due to changing environment.
+mcd1992	I think he was memeing about the code on the f3 'rotting' and introducing bugs
+Brian Monaghan	or bad flash, sure
+CNLohr	\"Fearless Pt. II\" by Tule Published by NoCopyrightSounds Amazon.com Song ID: 291848228
+douro20	Code rot? Unless you had self-modifiying code...
+axlecrusher	trolling
+axlecrusher	in all seriousness, maybe it needs reflashing
+CNLohr	\"Blue Sky\" by Ikson Music by: https://www.soundcloud.com/ikson
+axlecrusher	what would you need to do in windows?
+J G	thanks engineers, you can always count on an engineer to ask all the right questions :)
+axlecrusher	does it work in virtualbox?
+Arsenio Dev	woooow
+CNLohr	\"Campfire\" by RetroVision Published by NoCopyrightSounds Amazon.com Song ID: 288331460
+axlecrusher	boot the windows partition in virtualbox
+Arsenio Dev	wtf so it might be my display library causing the WDT reset
+CNLohr	\"Free\" by Ikson Music by: https://www.soundcloud.com/ikson
+expansiongames	so hows it going? getting somewhere?
+qbz32	\u003e find *
+CNLohr	\"Invincible\" by Deaf Kev Published by NoCopyrightSounds Amazon.com Song ID: 258577408
+Perlmongler	boom
+Ethan Sumner	cya
+Brian Monaghan	here
+amoose136	don't buy ftdi
+Dan Runi	goodnight sweet prince
+Gman24441onPs3	later
+Perlmongler	night
+expansiongames	well good luck and i look forware to the data
+Josiah Tillett	Goodnight!
+Arsenio Dev	07
+CNLohr	Error opening file: No such file or directory Unknown track by Unknown artist Unknown copyright information.

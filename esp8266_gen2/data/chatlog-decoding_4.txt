@@ -1,0 +1,519 @@
+Reallocing 2048
+Reallocing 3072
+CNLohr	test
+Bllinker	tset
+Noel's pianochannel	ibcm
+Jackson Ford	Super chat
+K1ngjulien_	test
+tommihommi1	beep blop
+K1ngjulien_	I gotta say that I am really impressed with all of Charls' work
+CNLohr	Just a conduit. It takes a village.
+CNLohr	It's not just my work.
+CNLohr	@Jackson Ford Super chat?
+CNLohr	\"Calling\" by Tobu http://youtube.com/tobuofficial Licensing terms available https://tobu.io/Calling Amazon.com Song ID: 293806073
+Peter S. Hollander	Hello!
+TheJJ100100	bonjour
+Peter S. Hollander	Swell, gives me time to get familiar with the data you just posted 😀
+leonardo cafferata	i have a question. why is that pic of the usb3.0 device? are you using it here?
+TheJJ100100	😀how do emojis show in this thing of yours?
+CNLohr	\"Taking Over (feat. Alexa Lusader)\" by OLWIK Published by NoCopyrightSounds Amazon.com Song ID: 250345711
+goosenp	Does the FX3 have sigrok compatibility?
+a a	finally catching cnlohr live after the first streams, !!!!!!
+Comgenie	such pro debugging, very wow
+Nathaniel Barragan	Hello!
+CNLohr	\"Fearless Pt. II\" by Tule Published by NoCopyrightSounds Amazon.com Song ID: 291848228
+Nathaniel Barragan	The chat seems to be dead...
+Nathaniel Barragan	On the HUD.
+goosenp	@Nathaniel Barragan I think he is working on fixing that right now
+Peter S. Hollander	@CNLohr Looks like just the DATA (no more ENV) @LSB of 8-bit words? Assume from TP2?
+Nathaniel Barragan	Ohhhhh okay.
+goosenp	Hence the code editor and gdb
+goosenp	Yay!
+goosenp	Isn't it a security risk to show your API key on the stream?
+Reallocing 2048
+Reallocing 3072
+CNLohr	test
+Bllinker	tset
+Noel's pianochannel	ibcm
+Jackson Ford	Super chat
+K1ngjulien_	test
+tommihommi1	beep blop
+K1ngjulien_	I gotta say that I am really impressed with all of Charls' work
+CNLohr	Just a conduit. It takes a village.
+CNLohr	It's not just my work.
+CNLohr	@Jackson Ford Super chat?
+CNLohr	\"Calling\" by Tobu http://youtube.com/tobuofficial Licensing terms available https://tobu.io/Calling Amazon.com Song ID: 293806073
+Peter S. Hollander	Hello!
+TheJJ100100	bonjour
+Peter S. Hollander	Swell, gives me time to get familiar with the data you just posted 😀
+leonardo cafferata	i have a question. why is that pic of the usb3.0 device? are you using it here?
+TheJJ100100	😀how do emojis show in this thing of yours?
+CNLohr	\"Taking Over (feat. Alexa Lusader)\" by OLWIK Published by NoCopyrightSounds Amazon.com Song ID: 250345711
+goosenp	Does the FX3 have sigrok compatibility?
+a a	finally catching cnlohr live after the first streams, !!!!!!
+Comgenie	such pro debugging, very wow
+Nathaniel Barragan	Hello!
+CNLohr	\"Fearless Pt. II\" by Tule Published by NoCopyrightSounds Amazon.com Song ID: 291848228
+Nathaniel Barragan	The chat seems to be dead...
+Nathaniel Barragan	On the HUD.
+goosenp	@Nathaniel Barragan I think he is working on fixing that right now
+Peter S. Hollander	@CNLohr Looks like just the DATA (no more ENV) @LSB of 8-bit words? Assume from TP2?
+Nathaniel Barragan	Ohhhhh okay.
+goosenp	Hence the code editor and gdb
+goosenp	Yay!
+goosenp	Isn't it a security risk to show your API key on the stream?
+CNLohr	\"Galaxy\" by Ikson Music by: https://www.soundcloud.com/ikson
+goosenp	Oh nevermind, I assumed the ID you pasted in GDB was it
+goosenp	Might still be a good idea to generate a new one later
+K1ngjulien_	Test!?
+CNLohr	test
+CNLohr	ok, I think it's good?
+12
+26
+51
+75
+92
+114
+190
+233
+263
+296
+435
+461
+481
+572
+671
+730
+845
+893
+958
+996
+1022
+1118
+1166
+1197
+1272
+1376
+1408
+1446
+1459
+1528
+1598
+1662
+1725
+1744
+1756
+1786
+1814
+1836
+1848
+1873
+1885
+1897
+1910
+1930
+1945
+1962
+1974
+1985
+2081
+2094
+2119
+2196
+2258
+2279
+2322
+2334
+2347
+2410
+2540
+2716
+2769
+2826
+2924
+CNLohr	test
+Bllinker	tset
+Noel's pianochannel	ibcm
+Jackson Ford	Super chat
+K1ngjulien_	test
+tommihommi1	beep blop
+K1ngjulien_	I gotta say that I am really impressed with all of Charls' work
+CNLohr	Just a conduit. It takes a village.
+CNLohr	It's not just my work.
+CNLohr	@Jackson Ford Super chat?
+CNLohr	\"Calling\" by Tobu http://youtube.com/tobuofficial Licensing terms available https://tobu.io/Calling Amazon.com Song ID: 293806073
+Peter S. Hollander	Hello!
+TheJJ100100	bonjour
+Peter S. Hollander	Swell, gives me time to get familiar with the data you just posted 😀
+leonardo cafferata	i have a question. why is that pic of the usb3.0 device? are you using it here?
+TheJJ100100	😀how do emojis show in this thing of yours?
+CNLohr	\"Taking Over (feat. Alexa Lusader)\" by OLWIK Published by NoCopyrightSounds Amazon.com Song ID: 250345711
+goosenp	Does the FX3 have sigrok compatibility?
+a a	finally catching cnlohr live after the first streams, !!!!!!
+Comgenie	such pro debugging, very wow
+Nathaniel Barragan	Hello!
+CNLohr	\"Fearless Pt. II\" by Tule Published by NoCopyrightSounds Amazon.com Song ID: 291848228
+Nathaniel Barragan	The chat seems to be dead...
+Nathaniel Barragan	On the HUD.
+goosenp	@Nathaniel Barragan I think he is working on fixing that right now
+Peter S. Hollander	@CNLohr Looks like just the DATA (no more ENV) @LSB of 8-bit words? Assume from TP2?
+Nathaniel Barragan	Ohhhhh okay.
+goosenp	Hence the code editor and gdb
+goosenp	Yay!
+goosenp	Isn't it a security risk to show your API key on the stream?
+CNLohr	\"Galaxy\" by Ikson Music by: https://www.soundcloud.com/ikson
+goosenp	Oh nevermind, I assumed the ID you pasted in GDB was it
+goosenp	Might still be a good idea to generate a new one later
+K1ngjulien_	Test!?
+CNLohr	test
+CNLohr	ok, I think it's good?
+K1ngjulien_	yup its working
+AntonMadness	its good
+CNLohr	adsf
+K1ngjulien_	now its dead
+CNLohr	yeah
+CNLohr	test
+CNLohr	again
+CNLohr	please crash
+CNLohr	come on
+CNLohr	craaaaash
+CNLohr	asdf
+CNLohr	asf
+CNLohr	\"Boss Burger N' Chips (REMIX)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+goosenp	🙂
+TheZio69	emoji handling?
+mcd1992	he's slowly realizing that maybe not *everything* should be in C :^)
+goosenp	I'm also guessing that which is why I posted an emoji
+CNLohr	testing agian
+Comgenie	@mcd1992 But hardmode is funmode!
+mcd1992	lol
+goosenp	🤔
+goosenp	Nope, that emoji did not crash it. So I guess not then
+Comgenie	Don't worry. Its not like 76 people are all staring at your screen while you try to fix a small bug and commenting on it
+CNLohr	\"Falling Stars (feat. T.R.) [Ninety9Lives Release]\" by Janji Music provided by Ninety9Lives / No Copyright Sounds Stream / Free Download: http://99l.tv/FallingStarsYU
+Nathaniel Barragan	I actually enjoy watching this...
+goosenp	Why are you changing the compilation to 32 bits?
+K1ngjulien_	you should make your streambuddy an OBS plugin so you don't have to deal with this ^^
+12
+CNLohr	test
+12
+CNLohr	boom
+12
+CNLohr	moob
+26
+Peter S. Hollander	boom !
+18
+goosenp	😎 Test
+10
+root	moob
+CNLohr	still printing?
+goosenp	😎
+delta	hello 🙋
+root	can it break if I write moob moob moob many times?
+Peter S. Hollander	Yoyoyoyoyo
+Comgenie	Woohoo!
+mcd1992	nb4 segfault in the middle again
+muh1h1	Boom
+Peter S. Hollander	Looks like the data you just posted is just 1 bit, @LSB w/ 8-bit words?
+muh1h1	moob
+Peter S. Hollander	I've got a script ready that demodulates into a pretty graph CSV if you want that? Works beautifully with what you just posted
+Peter S. Hollander	Lemme upload it somewhere
+kanadzava	you look like panda. are you sleep enough?)
+CNLohr	\"Go 4 It (Original)\" by Nitro Fun Obtained from the-arcadium.net Listen here: https://open.spotify.com/track/2bkuJwSgskVJF9O0uWcm0v
+mcd1992	if you have kde libs okteta is a pretty good one as well
+Peter S. Hollander	I didn't mention that finding! That was c/o r2x0t
+Peter S. Hollander	I'd recommend grabbing gnuplot for graphing large(r) data
+Peter S. Hollander	linux compat
+Jackson Edwards	IT'S PASSWORD
+Comgenie	Don't worry, we can just find out the password by using the sounds of the specific keys and way too much time
+Tripp Bodenheimer	caught it live this time 🙌
+mcd1992	xfce might not of liked all those KDE libs being pulled in :V
+mcd1992	the tools menu has some extra features
+mcd1992	checksums ect.
+mcd1992	lol
+Peter S. Hollander	Charles, my code is heckin' messy - want me to spend another 10 mins cleaning/commenting, or just go for the post? lol
+CNLohr	\"Bay Breeze (Original Mix)\" by FortyThr33 https://soundcloud.com/fortythr33-43 Creative Commons - Attribution 3.0 Unported - CC BY 3.0 Amazon.com Song ID: 283396416, Found from Audio Library
+Duane Conway	you are blurry
+Comgenie	other file
+Peter S. Hollander	I can say this data is DEF cleaner than the last batch.
+Peter S. Hollander	My confidence filter is pretty much ALWAYS 1 or 0, never seeing anything iffy
+CNLohr	\"Hollow\" by Phantom Sage Published by NoCopyrightSounds Amazon.com Song ID: 288331470
+Alojz Jakob	boom
+mcd1992	I saw someone named root in here earlier
+mcd1992	2:51 PM root \u200bcan it break if I write moob moob moob many times?
+mcd1992	I'm cst so I guess 3:51 for you
+CNLohr	\"Fly Away (Original)\" by TheFatRat Freely available from TheFatRat Featuring Anjulie https://lnk.to/ftrflyaway
+mcd1992	shlong
+Hypatia	what is this?
+Peter S. Hollander	Not that - if there is no change each tick that is a zero (I believe)
+Peter S. Hollander	Correct
+Peter S. Hollander	The latter is correct imo
+Peter S. Hollander	Differential
+Zeeuws Gamertje	I thought Manchester was a city 🤔
+Peter S. Hollander	Affirmative
+CNLohr	\"Blue Sky\" by Ikson Music by: https://www.soundcloud.com/ikson
+Peter S. Hollander	2 shorts is 1, 1 long is 0
+Peter S. Hollander	There is a clock tick every 6MHz
+SlothfulSalad	Hey!
+stormy	I love these streams, keep it up!
+CNLohr	\"Symbolism\" by Electro-Light NCS Release on NCS: Infinity Album Amazon.com Song ID: 260818483
+Zeeuws Gamertje	I have no experience in coding (or decoding) but this sure seems interesting..
+Zeeuws Gamertje	120 watching? leave a like, people!
+Peter S. Hollander	@CNLohr check your twitter! Sent you my demodulator
+Peter S. Hollander	LOL
+Peter S. Hollander	Erm, self-taught? ^_^'
+Peter S. Hollander	It's cluttered because I had to get through all the noise in the last data you dumped
+Peter S. Hollander	Hope it's legible :x
+Peter S. Hollander	Yeah, before this set
+Peter S. Hollander	The trash
+Peter S. Hollander	I got a few stable repeating bytes outta the last stuff with this code
+CNLohr	\"zBoss (C64)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+Lee Olivares	Is that nexus terminal font I see?
+cbryn	good ol gedit
+Peter S. Hollander	Gotcha gotcha
+CNLohr	\"Prelude\" by TheFatRat Freely available from TheFatRat Obtained from the-arcadium.net. Listen at https://lnk.to/tfrprelude
+Emil Carr	Why not vim?
+cbryn	vims fine over ssh
+Lee Olivares	Negative, what’s that adorably angled chat font on the right there, like it.
+Emil Carr	/emacs
+cbryn	i dont use it if i have a mouse
+Peter S. Hollander	FYI, the output CSV has two X-axis outputs. Column 1 is time, and Column 3 is also time, just one tick earlier for better readability.
+Emil Carr	vim has mouse support in graphical terminals
+cbryn	ideally id learn how to use acme but that stuff is pretty rigid in the way it displays fonts
+cbryn	vim with a mouse isn't vim at all
+Emil Carr	urxvt + oh my zsh! powerline + vim is what i use
+Peter S. Hollander	It's 1/6MHz
+CNLohr	\"Frontier 7\" by Krale Free Download @ https://soundcloud.com/kraleofficial https://soundcloud.com/kraleofficial/krale-frontier NCS Release
+Peter S. Hollander	Slightly earlier time
+Peter S. Hollander	for better visual plotting
+Bllinker	Shouldn't using int_fast32_t guarantee at least a 32-bit int but also allow the compiler to optimize to its heart content?
+TechnikmitBen	uela
+MrRolnicek	Oh I actually managed to catch this live ... I bet i missed the moment of epiphany, right?
+Peter S. Hollander	I'd recommend plotting with GNUPlot if you want to see the data very readily
+TechnikmitBen	😀
+mcd1992	missing an underscore
+mcd1992	you fixed it as I said it
+cbryn	wish wireshark had something to easily hook up USB/SPI/i2c bs
+Emil Carr	you're not i think it was a weird bug yeah
+mcd1992	you had 'was short' in your if
+Peter S. Hollander	gnuplot (dot) info for install - unfortunately not familiar with linux to post the apt-get!
+CNLohr	\"Jackpot\" by TheFatRat Freely available from TheFatRat Obtained from the-arcadium.net. Listen at https://open.spotify.com/track/3TkX3Xpb4wNNv8226fupx0
+mcd1992	gotcha
+Emil Carr	Charles do you have a degree in electronics / computer science or anything?
+foo bar	the monospace font in ubuntu is pretty good
+MrRolnicek	Btw. the only thing you need to encode in the beam is Beam_ID and the angle by how much it's rotated (just the one angle) right?
+MrRolnicek	As in if you're a Valve engineer designing a lighthouse
+Emil Carr	That's awesome. I'm considering studying engineering at cambridge, but they dont let you do electronic engineering as well as computing science so i might go to Glasgow Uni and do that
+cbryn	cambridge has a good academic track program for computer science and computer engineering
+cbryn	if you want to be an \"engineer\" though you can pretty much go anywhere
+Emil Carr	@cbryn they do? they didnt seem to know anything about it when i went on a schools outreach program for a week
+CNLohr	\"Invincible\" by Deaf Kev Published by NoCopyrightSounds Amazon.com Song ID: 258577408
+Emil Carr	I have the prospectus on my shelf, i'll check that out real quick
+cbryn	and to be fair completing multiple degrees in undergrad is not super useful compared to doing 1 major and doing something psotgraduate
+Peter S. Hollander	GNUPlot console -\u003e cd [CSV directory] -\u003e plot 'data3.csv' using 1:2 with lines, 'data3.csv' using 3:4 with lines, 'data3.csv' using 3:5 with lines
+Peter S. Hollander	-\u003e zoom into graph using right mouse to select zoom region, control-shift-scroll for horizontal zooming
+cbryn	@Emil Carr I misread. Yeah you shouldn't be able to do any combo of EE/CS/CE
+cbryn	I mean academic vs. engineer, if you want to be an actual engineer you go wherever is cheapest
+El suisse	add the gnuplot commands to the makefile
+Peter S. Hollander	yeah, the plot bit
+Peter S. Hollander	after my first arrow
+Emil Carr	I really like the cambridge engineering center though. It's awesome
+Peter S. Hollander	Golly, I'm just getting into the community of this world it would seem, I don't have a git :x Should work if you type the following:
+Emil Carr	Cambridge is awesome because of their labs and resources, but their engineering course covers a really broad spectrum and doesn't really specialise until 3rd year
+tommihommi1	hi guys
+Peter S. Hollander	gnuplot plot 'data3.csv' using 1:2 with lines, 'data3.csv' using 3:4 with lines, 'data3.csv' using 3:5 with lines
+Nathaniel Barragan	Watching you program makes me want to. I've went like a week deprived of a programming oportunity (no laptop with me or anything like that) so I've been really itching to.
+Peter S. Hollander	So the way I do it is I open up a GNU console through an executable.
+Peter S. Hollander	YES
+Peter S. Hollander	Zoom using right mouse to select an area
+Peter S. Hollander	Dataset might be too large.
+CNLohr	\"Falling Up\" by Y&V Published by NoCopyrightSounds Amazon.com Song ID: 288331462
+Peter S. Hollander	Lower the range in my code to just a few ms?
+El suisse	python + matplotlib???
+juntistik	CNLohr is pretty cool guy, eh reverse engineers lighthouse and doesn't afraid of anything.
+Peter S. Hollander	@CNLohr I posted the zoomed in graph onto my blog site I sent you via Twitter earlier.
+root	@El suisse only c is allowed
+CNLohr	\"Love U\" by Razihel https://www.youtube.com/watch?v=OJBxNA8cX-E Download this track for FREE: https://www.hive.co/l/ossn
+juntistik	old halo meme 😛
+Peter S. Hollander	That is the zoomed in graph data
+Peter S. Hollander	You were correct.
+Peter S. Hollander	Thank you!
+Johannes Sonn	boom
+juntistik	Did Valve ship you the 2.0 light houses or did you have to go through a 3rd party that had a bulk buy?
+Sebastian Sebastian	this is sorcery
+juntistik	That's awesome
+CNLohr	\"Shine\" by Elgate feat. Spektrem Free download: https://www.hive.co/l/3gpef  https://www.youtube.com/watch?v=n4tK7LYFxI0
+shinevision sv	Hes live! Yay!
+juntistik	Is this what looking at the matrix looks like?
+Peter S. Hollander	I started seeing that as well 😃
+Tripp Bodenheimer	Patterns!
+mcd1992	gnuplot :V
+mcd1992	that or maybe gnu octave
+MrRolnicek	Ha ... I did catch the epiphany moment 😀 I think ... maybe ... fingers crossed
+Johannes Sonn	nice boom
+CNLohr	\"High\" by JPB NCS Release on NCS: Infinity Album Amazon.com Song ID: 260818488
+t1m1d	yeah i'd use octave to visualize the data
+shinevision sv	i always wonder what did i did wrong
+mcd1992	lol
+CNLohr	\"Dawn\" by Ikson Music by: https://www.soundcloud.com/ikson
+t1m1d	beautiful\\
+mcd1992	thats a weird looking barcode!
+MrRolnicek	A bit dissapointed this didn't end up looking like a Trollface
+juntistik	It's a sailboat!
+Emil Carr	train a neural net to find the pattern :P
+CNLohr	\"Pixel Dreams\" by Electro-Light & ProtosoniX Self Published, Distributed Freely
+Noob In Life	what is this?
+mcd1992	is the timing on the X or Y axis ?
+Nayland Smith	That is three streams in 1... audio, video, header
+Peter S. Hollander	@CNLohr, can you collect two different streams with the lighthouse set to two different channels?
+Peter S. Hollander	That way we could identify the lighthouse ID if it is separate / repeating in the stream...
+Nayland Smith	header on left (thin), middle video, right audio?
+juntistik	it's not streaming a/v
+Peter S. Hollander	There's a paperclip button on the back
+juntistik	this is just light data
+Nayland Smith	but JUST like it....
+MrRolnicek	Each new line comes in once per rotation of lighthouse or twice?
+Peter S. Hollander	Only way to confirm is via SteamVR with a 2.0 tracked object......
+Peter S. Hollander	I believe.
+Peter S. Hollander	So just press it once and hope? ^_^'
+juntistik	It means its just for sync right? handshaking ?
+CNLohr	\"Shadows\" by It's Different Published by NoCopyrightSounds Amazon.com Song ID: 288331452
+Peter S. Hollander	You were generating a lot of noise when moving the lighthouse (stopping due to IMU?)
+Peter S. Hollander	Huh. That's interesting.
+Peter S. Hollander	Are they both at the same starting point?
+juntistik	Is the lighthouse running by itself or syncing with the second one?
+Rikard	What is lighthouse
+MrRolnicek	There is no sync in the 2.0s as far as i know, they don't care about each other or anything else
+juntistik	Valves positional tracking for VR
+gamerpaddy	generates new encryption key on channelswitch? maybe rec data while powering up / connecting
+Peter S. Hollander	The image files - can we write a filter that doesn't start plotting the data until a specific stream is met, so they have the same starting point and are directly comparable?
+CNLohr	\"Wouldn't Change It\" by Halvorsen Published by NoCopyrightSounds Amazon.com Song ID: 266782879
+Peter S. Hollander	DM'd you on twitter w/ a tweet from Alan last week
+yrath	what's the type/spec of the PC you are using? seems to handle those superspeed slurps without any detrimental effect to your desktop environment.
+Peter S. Hollander	Got it, I can tweet to you then directly
+CNLohr	\"Lights\" by Ikson Music by: https://www.soundcloud.com/ikson
+Peter S. Hollander	Publicly tweeted
+Peter S. Hollander	\"can only handle the bits 2 and 3 stream\" implies that there are 3 bits that show a lighthouse ID?
+Peter S. Hollander	Unless he meant bits 2 and 3 of your stream. That's probably what he meant. Nevermind.
+facelessindividual	Hi Peter!
+1dfgaJ83K92	Plz can you explain the output, as i missed the beginning of the stream.
+CNLohr	\"Sugar High\" by JJD Obtained from the-arcadium.net JJD: https://soundcloud.com/jjdofficial
+juntistik	doesn't look like the light house has anything to sync with
+Peter S. Hollander	FYI \"1 time around the rotor\" may be skewed from busting open the lighthouse! I found that the duty cycle lasted somewhere around 0.020123 seconds rather than the expected / ideal 0.02!
+juntistik	doesn't it sync with the headset sensor?
+juntistik	whats the point of the data stream then?
+1dfgaJ83K92	How are you syncing the lines of data with the rotor rotation??
+Tacit Tacet	moob
+MrRolnicek	So the information about the angle is \"encrypted\" or \"encoded\" by the beam ID? That would make sense, right?
+Rikard	Gotta love them proprietary protocols.
+Jamie Christie	So a horiz row of pixels represents the data from one sweep of the lighthouse - is that right. (hi everyone, Just arrived).
+WORMSTweaker	I'm not sure,but on the left,when you were swapping the pictures,the data seemed reversed (0 beacames 1, and vice-versa)
+juntistik	cray-zee
+Peter S. Hollander	Can you also post your code? Would love to play around with the dimensions myself as well
+CNLohr	\"Early Hours\" by Ikson Music by: https://www.soundcloud.com/ikson
+Emil Carr	WORMSTweaker that would be called inverted
+Peter S. Hollander	btw, how did you determine the width of the image @CNLohr?
+MrRolnicek	Do we know how good is the horizontal resolution of the 2.0 system? Because that SHOULD tell uss where the information is going to repeat with a different data payload, right?
+Chad Doebelin	Hi, not trying to be disrespectful here, but what's the point? I'm not really using my imagination I guess, but what do envision being able to do once you've understood the data?
+Peter S. Hollander	Okay!
+Chad Doebelin	alrighty, thanks!
+CNLohr	\"Time Lapse\" by TheFatRat Freely available from TheFatRat Obtained from the-arcadium.net https://lnk.to/tfrtimelapse
+Jamie Christie	How many pixels (bits) are in a sweep?
+Tacit Tacet	so each picture is a channel/lighthouseID.. how many lighthouse is supported (max no of \"images\")?
+juntistik	I hope we get a video of the manufacturing line for these things like got with the steam controller
+RoterFruchtZwerg	do we know if one line in the image is all data of one revolution of the rotor, or just one beam? the rotor generates two beams per revolution, right?
+1dfgaJ83K92	How many lines per rotation / what is the angle per line of data?
+Continuum	how does the beam height (in effective pixels) compare to what looks like a narrow/wide data sample?
+Peter S. Hollander	@CNLohr can we get two raw data dumps each with it's own unique uninterrupted channel when you next upload?
+1dfgaJ83K92	Can you break your data up into sweeps with a big gap in the image??
+CNLohr	\"Unit F (VRC6)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+Peter S. Hollander	One of the files you are working with IIRC you toggled the channel in the middle of the data gather? Looking for two separate uninterrupted streams specifically
+juntistik	Do you have any interest in getting knuckles to RE I guess a watchman 2.0 protocol?
+1dfgaJ83K92	Split the image into individual sweeps. rather than multiple sweeps with no gaps.
+Peter S. Hollander	I think that would let us see a repeated lighthouse ID?
+Peter S. Hollander	If present
+MrRolnicek	The ID can be mixed in with the other data
+Peter S. Hollander	Ohhhhh, that would be sneaky. And terribly inconvenient for us
+CNLohr	\"C64est\" by Inverse Phase Visit http://inversephase.com
+Peter S. Hollander	*crosses fingers*
+MrRolnicek	There could still be a repeating pattern of \"start\" and \"end\" of a segment that deliniates a specific position of the rotor within the rotation ... maybe
+Jamie Christie	The last lighthouse had a horrible \"forward and backward\" encoding, IIRC. I remember you screaming on camera...
+Peter S. Hollander	Alan said that there is no packaging of the data iirc
+Peter S. Hollander	So no preamble or anything
+1dfgaJ83K92	How many bits is a line of data?
+MrRolnicek	That was the Vive controller I think
+MrRolnicek	The one that was encoded forwards and backwards
+Peter S. Hollander	We should be able to understand where in the stream we are with only \"tens of bits\", per Alan (that is the point, after all)
+MrRolnicek	tens of bits is WAY too short ... there has to be some trick to that
+CNLohr	\"Duck Face\" by CDE NCS Release   Free Download / Stream: http://ncs.io/DuckFaceYO
+Peter S. Hollander	Gotta keep stretching until we hit 30 or 50!
+Peter S. Hollander	Haha
+Emil Carr	FFT? Very interesting approach. I wouldn't have thought of that
+CNLohr	\"Make Me Move (Tobu Remix)\" by Culture Code Published by NoCopyrightSounds Amazon.com Song ID: 288331464
+Peter S. Hollander	Well, is this output encoding 1 bit per byte?
+Peter S. Hollander	I'm assuming the highlight is 1 /bit/
+L V	You should run a correlation matrix of the data...
+Peter S. Hollander	Gotcha
+Tacit Tacet	can Audacity do FFT?
+mcd1992	gnu octave *cough cough*
+L V	and FFT of Random data doesn't provide enough information about a random process
+Emil Carr	So im guessing by fft you mean something like 1 bit = 1 unit of time?
+mcd1992	lol
+MrRolnicek	There's probably some simple FFT in numpy, do you do python at all?
+CNLohr	\"Runaway (Culture Code Remix)\" by Halcyon Published by NoCopyrightSounds Amazon.com Song ID: 291848218
+1dfgaJ83K92	I feel like I'm in the matrix looking at the png data you uploaded... but scrolling from left too right quickly there is a distinct separation between two layers.
+L V	first try doing an autocorrelation of the data, and later an FFT of the autocorrelation function obtained.
+Emil Carr	never really seen fft used outside of audio
+1dfgaJ83K92	Plz can you upload an image of the data with black bars separating the data into individual sweeps.
+Peter S. Hollander	Charles, I just want to thank you for how beautiful this new data is. I'm running a find command for a string of 5000+ bits and there are 10 matches in 1 second ❤
+Brittany B	hackity hackering
+Peter S. Hollander	I can't see any noise, this is so wonderful to work with haha
+Lenard Mollenkopf	What even is Lighthouse?
+CNLohr	\"A Blip in Space (Miniboss)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+N!cky	feels weird when youre watching someone live with 6 hours time difference
+1dfgaJ83K92	So each vertical line is a full 180 Degree sweep??
+mcd1992	@1dfgaJ83K92 the X axis is time, Y axis is the data
+MrRolnicek	Where is the data actually? I might want to take a look at it if my internet can manage to download it.
+mcd1992	or sweep, sorry. Just meant not time
+CNLohr	https://drive.google.com/drive/folders/1IDDs67zcUPaqEtRxioHnWZO2vxHtX8Zc
+Shahruk Hossain	autoCorr(L) = sum( x(t) * x(t-L) ) for all t and where L is the lag time; If it's truly random, you'd get a spike at L=0 and close to zero every where else
+1dfgaJ83K92	So is each vertical line one rotation?
+John Donovan	Each long line is one sweep
+CNLohr	\"Energetic Fist (Stage Theme)\" by Inverse Phase Visit http://inversephase.bandcamp.com
+Emil Carr	need to include rfftw.h
+MrRolnicek	And keep in mind this isn't the data that a sensor can see, this is ALL the data the laser puts out
+1dfgaJ83K92	@John Donovan Long line being horizontal in the image?
+John Donovan	Do we know if there's any other data in the stream apart from the lighthouse id?
+John Donovan	Yup
+John Donovan	@1dfgaJ83K92
+CNLohr	\"The Calling\" by TheFatRat (feat. Laura Brehm) Freely available from TheFatRat Obtained from the-arcadium.net. Listen at https://open.spotify.com/track/2k1bFfcPIRTMeCGO48F0OE
+1dfgaJ83K92	Do you know the angular resolution of the lighthouse??
+atzkey	Did you try binvis dot io for analysing file entropy.
+CNLohr	\"We're Invincible\" by CDE Published by NoCopyrightSounds Amazon.com Song ID: 291848215
+mcd1992	Doesn't binwalk have some entropy mode?
+Perlmongler	Hey Charles
+Peter S. Hollander	😎
+Perlmongler	oh
+Perlmongler	I guess i Am late to the party
+Perlmongler	What di we learn today?
+L V	Check this ebook later, it provides codes in c for FFT and correlation \" Introduction to Signal Processing By Sophocles Orfanidis\"
+Perlmongler	So what was the data. i missed probing it from the lighthouse directly. Can any one catch me up?
+N!cky	line 25
+John Donovan	@Perlmongler that the engineers at Valve are just as fiendish as when they worked on the previous lighthouse
+CNLohr	\"Home\" by Jordan Schor & Harley Bird Published by NoCopyrightSounds Amazon.com Song ID: 291848222
+L V	The correlation gives a vector where the peaks..
+Peter S. Hollander	What would that imply? Bad data? Or \"random\" seed?
+1dfgaJ83K92	looking at the png data what are the slightly blank horizontal lines?
+Peter S. Hollander	I mean, if it's that close to being pure entropy, then I think it's safe to say that Ben was VERY efficient about how the information is encoded... xD
+Perlmongler	Thats what i theroised it was
+Perlmongler	thats how encoders works
+CNLohr	\"Epic\" by TheFatRat Freely available from TheFatRat Obtained from the-arcadium.net https://lnk.to/ftrepic
+Peter S. Hollander	Thanks for the stream!
+shinevision sv	Bye! was fun!
+shinevision sv	😀
+Emil Carr	damn i was actually wondering if it was an LFSR
+shinevision sv	WOT
+shinevision sv	Plot Twist
+MrRolnicek	link it?
+John Donovan	Mind blown! I was also thinking about LFSR just now!
+CNLohr	https://github.com/cnlohr/esptracker/issues/1

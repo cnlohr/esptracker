@@ -6,7 +6,8 @@ int currun = 0;
 
 int main()
 {
-	FILE * f = fopen( "Data_20180805134454.8.dat", "rb" );
+	FILE * f = fopen( "Data_20180805155528.8.dat", "rb" );
+//	FILE * f = fopen( "/tmp/newdatafile.dat", "rb" );
 	uint8_t lv = fgetc( f );
 	currun = 1;
 	while( !feof( f ) )
